@@ -1,0 +1,2507 @@
+Cod_sede,Depto,Ciudad,CG,Sede,Juez,comunidad con,Oficina,Categ,Turno,Secc,Comp,Variable,Valor
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,580
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,484
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,395
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,330
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,46
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,50
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,425
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,55
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,2
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INDTR,34
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,7
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,8
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,22
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,10
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,412
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,606
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,1
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,1
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,413
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,607
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,293
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,522
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,5
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,110
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,108
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,115
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,632
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,-25
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,4
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,46
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,42
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,46
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,42
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,28
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INDINI,47
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,47
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,5
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,18
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,52
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,6
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,1
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,165
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,16
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,44
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,5
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,203
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,123
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,10
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,2
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,1
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,2
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,EXREC,174
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,153
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,1178
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,2256
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,92
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,5059
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,8
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,68
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,100
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,11
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,15
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,0
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,10
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,15
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,510
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,INIMP,3
+155,2,Artigas,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,2
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR_ANT,965
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR,1505
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SUMTR_ANT,537
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SUMTR,489
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,CUMTR_ANT,65
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,CUMTR,142
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRPE,573
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,CUMSENT,133
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INDTR_ANT,54
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INDTR,5
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INFRTR_ANT,46
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INFRTR,7
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRADOL,2
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN_ANT,215
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN,958
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ_ANT,315
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ,4
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIPEN_ANT,530
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIPEN,962
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESINI_ANT,215
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESINI,911
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SUMINICPRE,191
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SUMINISPRE,0
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SUMINI_ANT,122
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SUMINI,191
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIPEN2,911
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AICHEQPEN,51
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,CUMINI,33
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL_ANT,30
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL,46
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ_ANT,3
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ,4
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIADOL_ANT,33
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AIADOL,50
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INDINI_ANT,21
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INDINI,17
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INFRINICIND,12
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INFRINISIND,0
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INFRINI_ANT,21
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INFRINI,12
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AARCHPEN,994
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AREMTPEN,12
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AARCHADOL,41
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,AREMTADOL,0
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN_ANT,106
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN,168
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL_ANT,14
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL,26
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,EXREC,1478
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,EXCUM,849
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PROVPRES,4789
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PROVSUM,3287
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PROVADOL,406
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,OFILIB,5372
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,DILALGUA,0
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS_ANT,4
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS,197
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS_ANT,60
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS,35
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,ADOLCSENT,9
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,ADOLSSENT,1
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN_ANT,74
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN,133
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PENLIB,229
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,INIMP,4
+167,3,Canelones,-1,-1,1,-1,-1,1,1,-1,17,PROFUG,1
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR_ANT,590
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR,545
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SUMTR_ANT,301
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SUMTR,285
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,CUMTR_ANT,15
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,CUMTR,140
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRPE,461
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INDTR_ANT,49
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INFRTR_ANT,33
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INFRTR,5
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRADOL,6
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN_ANT,818
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN,863
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ_ANT,85
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ,1
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIPEN_ANT,903
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIPEN,864
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESINI_ANT,635
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESINI,844
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SUMINICPRE,155
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SUMINI_ANT,166
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SUMINI,155
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIPEN2,844
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AICHEQPEN,20
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL_ANT,43
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL,67
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ_ANT,0
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ,1
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIADOL_ANT,43
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AIADOL,68
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INDINI_ANT,15
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INFRINICIND,5
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INFRINI_ANT,23
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INFRINI,5
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AARCHPEN,944
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,AARCHADOL,68
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN_ANT,179
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN,219
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL_ANT,20
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL,15
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,EXREC,184
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,EXCUM,157
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PROVPRES,2027
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PROVSUM,1639
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PROVADOL,285
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,OFILIB,2906
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS_ANT,106
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS,102
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS_ANT,58
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS,8
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,ADOLCSENT,0
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,ADOLSSENT,0
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN_ANT,41
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN,43
+169,3,Las Piedras,-1,-1,1,-1,-1,1,1,-1,17,INIMP,16
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESUMTR_ANT,579
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESUMTR,685
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SUMTR_ANT,219
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SUMTR,322
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,CUMTR_ANT,16
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,CUMTR,182
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,EXPEJECTRPE,548
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INDTR_ANT,35
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INFRTR_ANT,23
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INFRTR,9
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,EXPEJECTRADOL,5
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIJDOPEN_ANT,839
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIJDOPEN,1079
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIPENPAZ_ANT,54
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIPENPAZ,2
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIPEN_ANT,893
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIPEN,1081
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESINI_ANT,656
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESINI,1064
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SUMINICPRE,161
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SUMINI_ANT,220
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SUMINI,161
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIPEN2,1064
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AICHEQPEN,17
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIJDOADOL_ANT,35
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIJDOADOL,65
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIADOLPAZ_ANT,0
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIADOLPAZ,2
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIADOL_ANT,35
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AIADOL,67
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INDINI_ANT,18
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INFRINICIND,9
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INFRINI_ANT,29
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INFRINI,9
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AARCHPEN,946
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,AARCHADOL,60
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SENDEFPEN_ANT,164
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SENDEFPEN,168
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SENDEFADOL_ANT,13
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,SENDEFADOL,29
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,EXREC,149
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,EXCUM,134
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PROVPRES,2646
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PROVSUM,1663
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PROVADOL,276
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,OFILIB,3204
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESOSS_ANT,184
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESOSS,154
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESOCS_ANT,22
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESOCS,15
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,ADOLCSENT,0
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,ADOLSSENT,1
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESOPEN_ANT,54
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,PRESOPEN,50
+170,3,Las Piedras,-1,-1,1,-1,-1,1,2,-1,17,INIMP,14
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR_ANT,142
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR,364
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SUMTR_ANT,101
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SUMTR,185
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,CUMTR_ANT,14
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,CUMTR,157
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRPE,269
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INDTR_ANT,20
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INDTR,2
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INFRTR_ANT,20
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INFRTR,26
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRADOL,7
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN_ANT,173
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN,559
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ_ANT,27
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ,6
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIPEN_ANT,200
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIPEN,565
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESINI_ANT,85
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESINI,527
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SUMINICPRE,17
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SUMINISPRE,115
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SUMINI_ANT,101
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SUMINI,132
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIPEN2,642
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AICHEQPEN,-77
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,CUMINI,22
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL_ANT,18
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL,22
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ_ANT,2
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ,6
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIADOL_ANT,20
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AIADOL,28
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INDINI_ANT,20
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INDINI,2
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INFRINICIND,3
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INFRINISIND,25
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INFRINI_ANT,20
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INFRINI,28
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AARCHPEN,642
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AREMTPEN,18
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AARCHADOL,27
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,AREMTADOL,0
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN_ANT,109
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN,184
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL_ANT,11
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL,9
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,EXREC,106
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,EXCUM,97
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PROVPRES,1109
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PROVSUM,1322
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PROVADOL,180
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,OFILIB,3036
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,DILALGUA,0
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS_ANT,126
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS,54
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS_ANT,10
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS,13
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,ADOLCSENT,5
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,ADOLSSENT,0
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN_ANT,28
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN,43
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PENLIB,447
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,INIMP,6
+173,3,Pando,-1,-1,1,-1,-1,1,1,-1,17,PROFUG,2
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESUMTR_ANT,186
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESUMTR,226
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SUMTR_ANT,94
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SUMTR,117
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,CUMTR_ANT,34
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,CUMTR,130
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,EXPEJECTRPE,295
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INDTR_ANT,11
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INDTR,4
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INFRTR_ANT,7
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INFRTR,13
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,EXPEJECTRADOL,2
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIJDOPEN_ANT,313
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIJDOPEN,525
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIPENPAZ_ANT,128
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIPENPAZ,8
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIPEN_ANT,441
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIPEN,533
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESINI_ANT,336
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESINI,479
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SUMINICPRE,12
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SUMINISPRE,86
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SUMINI_ANT,97
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SUMINI,98
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIPEN2,565
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AICHEQPEN,-32
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,CUMINI,29
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIJDOADOL_ANT,16
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIJDOADOL,32
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIADOLPAZ_ANT,2
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIADOLPAZ,8
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIADOL_ANT,18
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AIADOL,40
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INDINI_ANT,11
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INDINI,19
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INFRINICIND,3
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INFRINISIND,29
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INFRINI_ANT,7
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INFRINI,32
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AARCHPEN,839
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AREMTPEN,23
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AARCHADOL,29
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,AREMTADOL,3
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SENDEFPEN_ANT,100
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SENDEFPEN,159
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SENDEFADOL_ANT,6
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,SENDEFADOL,9
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,EXREC,120
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,EXCUM,117
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PROVPRES,4367
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PROVADOL,176
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,OFILIB,2626
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,DILALGUA,0
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESOSS_ANT,45
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESOSS,50
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESOCS_ANT,19
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESOCS,11
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,ADOLCSENT,7
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,ADOLSSENT,0
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESOPEN_ANT,46
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PRESOPEN,27
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PENLIB,444
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,INIMP,10
+174,3,Pando,-1,-1,1,-1,-1,1,2,-1,17,PROFUG,0
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR_ANT,187
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR,709
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SUMTR_ANT,425
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SUMTR,228
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,CUMTR_ANT,140
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,CUMTR,153
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRPE,980
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,CUMSENT,114
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INDTR_ANT,1
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INDTR,8
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INFRTR_ANT,1
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INFRTR,6
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRADOL,15
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN_ANT,621
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN,925
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ_ANT,0
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ,0
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIPEN_ANT,621
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIPEN,925
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESINI_ANT,435
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESINI,709
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SUMINICPRE,14
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SUMINISPRE,130
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SUMINI_ANT,185
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SUMINI,144
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIPEN2,839
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AICHEQPEN,86
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,CUMINI,72
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL_ANT,21
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL,37
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ_ANT,0
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ,0
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIADOL_ANT,21
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AIADOL,37
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INDINI_ANT,7
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INDINI,21
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INFRINICIND,11
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INFRINISIND,0
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INFRINI_ANT,14
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INFRINI,11
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AARCHPEN,672
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AREMTPEN,57
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AARCHADOL,37
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,AREMTADOL,1
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN_ANT,210
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN,276
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL_ANT,10
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL,8
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,EXREC,177
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,EXCUM,168
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PROVPRES,2475
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PROVSUM,6961
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PROVADOL,249
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,OFILIB,6126
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,DILALGUA,0
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS_ANT,87
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS,117
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS_ANT,44
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS,76
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,ADOLCSENT,9
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,ADOLSSENT,2
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN_ANT,71
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN,174
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PENLIB,873
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,INIMP,3
+177,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,1,-1,17,PROFUG,117
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESUMTR_ANT,249
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESUMTR,496
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SUMTR_ANT,310
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SUMTR,345
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,CUMTR_ANT,84
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,CUMTR,78
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,EXPEJECTRPE,899
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,CUMSENT,81
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INDTR_ANT,0
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INDTR,5
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INFRTR_ANT,5
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INFRTR,8
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,EXPEJECTRADOL,18
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIJDOPEN_ANT,496
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIJDOPEN,951
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIPENPAZ_ANT,0
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIPENPAZ,3
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIPEN_ANT,496
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIPEN,954
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESINI_ANT,426
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESINI,746
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SUMINICPRE,15
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SUMINISPRE,174
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SUMINI_ANT,148
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SUMINI,189
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIPEN2,920
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AICHEQPEN,34
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,CUMINI,13
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIJDOADOL_ANT,23
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIJDOADOL,43
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIADOLPAZ_ANT,0
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIADOLPAZ,3
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIADOL_ANT,23
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AIADOL,46
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INDINI_ANT,3
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INDINI,26
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INFRINICIND,17
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INFRINISIND,0
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INFRINI_ANT,20
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INFRINI,17
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AARCHPEN,752
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AREMTPEN,32
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AARCHADOL,31
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,AREMTADOL,3
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SENDEFPEN_ANT,208
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SENDEFPEN,233
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SENDEFADOL_ANT,18
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,SENDEFADOL,17
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,EXREC,204
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,EXCUM,175
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PROVPRES,2729
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PROVSUM,5823
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PROVADOL,310
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,OFILIB,6358
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,DILALGUA,4
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESOSS_ANT,93
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESOSS,128
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESOCS_ANT,19
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESOCS,68
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,ADOLCSENT,7
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,ADOLSSENT,0
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESOPEN_ANT,59
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PRESOPEN,152
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PENLIB,719
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,INIMP,5
+178,3,Ciudad de la Costa,-1,-1,1,-1,-1,1,3,-1,17,PROFUG,78
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR_ANT,658
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESUMTR,950
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SUMTR_ANT,519
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SUMTR,410
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,CUMTR_ANT,48
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,CUMTR,67
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRPE,291
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,CUMSENT,25
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INDTR_ANT,0
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INDTR,9
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INFRTR_ANT,26
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INFRTR,82
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,EXPEJECTRADOL,14
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN_ANT,959
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIJDOPEN,1134
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ_ANT,78
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIPENPAZ,170
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIPEN_ANT,1037
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIPEN,1304
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESINI_ANT,866
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESINI,922
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SUMINICPRE,24
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SUMINISPRE,187
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SUMINI_ANT,153
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SUMINI,211
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIPEN2,1109
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AICHEQPEN,195
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,CUMINI,67
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL_ANT,26
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIJDOADOL,91
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ_ANT,0
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIADOLPAZ,4
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIADOL_ANT,26
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AIADOL,95
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INDINI_ANT,26
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INDINI,91
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INFRINICIND,91
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INFRINISIND,0
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INFRINI_ANT,26
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INFRINI,91
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AARCHPEN,732
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AREMTPEN,46
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AARCHADOL,51
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,AREMTADOL,10
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN_ANT,167
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SENDEFPEN,191
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL_ANT,8
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,SENDEFADOL,18
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,EXREC,228
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,EXCUM,136
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PROVPRES,3580
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PROVSUM,1967
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PROVADOL,315
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,OFILIB,2812
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS_ANT,62
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESOSS,160
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS_ANT,5
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESOCS,18
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,ADOLCSENT,3
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,ADOLSSENT,0
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN_ANT,28
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PRESOPEN,38
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PENLIB,253
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,INIMP,3
+527,3,Atlántida,-1,-1,1,-1,-1,1,1,-1,17,PROFUG,13
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,408
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,687
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,192
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,258
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,19
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,2
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,369
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,63
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,0
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,3
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,7
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,6
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,1043
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,1028
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,778
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,1683
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,89
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,79
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,867
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,1762
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,685
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,1605
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,0
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,78
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,93
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,78
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,1683
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,79
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,24
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,43
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,0
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,0
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,24
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,43
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,17
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INDINI,34
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,9
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,7
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,9
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,33
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,67
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,1597
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,2
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,36
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,2
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,39
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,63
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,71
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,2
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,6
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,3
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,2
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,EXREC,126
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,116
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,882
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1288
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,43
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,2520
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,0
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,49
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,45
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,2
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,1
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,1
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,30
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,13
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,12
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,357
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,INIMP,6
+206,4,Cerro Largo,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,1
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR_ANT,581
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR,699
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SUMTR_ANT,237
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SUMTR,313
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,CUMTR_ANT,18
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,CUMTR,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRPE,380
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,CUMSENT,74
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INDTR_ANT,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INFRTR_ANT,1
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INFRTR,1
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRADOL,21
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,ADUATR_ANT,60
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,ADUATR,41
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN_ANT,952
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN,1789
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ_ANT,69
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ,81
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIPEN_ANT,1021
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIPEN,1870
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESINI_ANT,846
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESINI,1703
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SUMINICPRE,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SUMINISPRE,86
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SUMINI_ANT,106
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SUMINI,86
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIPEN2,1789
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AICHEQPEN,81
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL_ANT,38
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL,64
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ_ANT,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ,1
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIADOL_ANT,38
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIADOL,65
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INDINI_ANT,22
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INDINI,44
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INFRINISIND,20
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INFRINI_ANT,16
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INFRINI,20
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIADUA_ANT,45
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AIADUA,57
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AARCHPEN,1645
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AREMTPEN,2
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AARCHADOL,50
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AREMTADOL,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AARCHADUA,25
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,AREMTADUA,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN_ANT,65
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN,60
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL_ANT,10
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL,13
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU_ANT,2
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,EXREC,115
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,EXCUM,110
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PROVPRES,1651
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PROVSUM,1397
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PROVADOL,105
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,OFILIB,3349
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,DILALGUA,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS_ANT,40
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS,34
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS_ANT,3
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS,5
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,ADOLCSENT,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,ADOLSSENT,0
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,COMDNA,27
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN_ANT,11
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN,14
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PENLIB,366
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,INIMP,6
+1022,4,Cerro Largo,-1,-1,1,-1,-1,1,2,-1,16,PROFUG,0
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,385
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,594
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,137
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,129
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,28
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,65
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,226
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,33
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,0
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INDTR,26
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,3
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,6
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,3
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,26
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,20
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,580
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,908
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,29
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,38
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,609
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,946
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,359
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,805
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,8
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,89
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,96
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,97
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,894
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,52
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,14
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,16
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,59
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,0
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,1
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,16
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,60
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,0
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INDINI,58
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,10
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,14
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,16
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,24
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,4
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,1
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,680
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,10
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,48
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,1
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,24
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,1
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,102
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,120
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,16
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,9
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,6
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,4
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,EXREC,252
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,242
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,4292
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1181
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,280
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,3266
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,241
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,39
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,42
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,0
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,4
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,1
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,4
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,21
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,21
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,174
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,INIMP,3
+222,5,Colonia,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,1
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,287
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,375
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,189
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,175
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,20
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,11
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,214
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,66
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,17
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INDTR,11
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,14
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,11
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,4
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,1
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,1
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,172
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,317
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,344
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,405
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,516
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,722
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,388
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,623
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,78
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,128
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,78
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,623
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,99
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,13
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,11
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,14
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,4
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,27
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,15
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,3
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INDINI,11
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,11
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,14
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,11
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,540
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,7
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,4
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,75
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,94
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,8
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,5
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,EXREC,70
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,70
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,3540
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1624
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,67
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,1688
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,14
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,19
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,33
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,4
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,1
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,20
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,18
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,INIMP,2
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,0
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIOTRJDOVD,382
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIBARVD,241
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AIVD,623
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AUDPREL,48
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,EXPTR_VD,203
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AARCHVD,243
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AICNA,115
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,ARLDOCNA,50
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,EXPTR_CNA,83
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,EXPTR_31/12/2016,286
+540,5,Rosario,-1,-1,1,-1,-1,1,1,-1,16,AUDR,48
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,335
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,255
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,89
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,242
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,11
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,22
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,290
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,26
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,52
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INDTR,89
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,32
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,15
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,11
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,18
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,5
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,263
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,221
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,193
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,167
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,456
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,388
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,141
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,98
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,31
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,44
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,56
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,75
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,142
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,246
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,48
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,22
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,115
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,51
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,1
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,73
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,116
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,78
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INDINI,115
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,15
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,32
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,15
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,3
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,2
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,550
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,8
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,35
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,35
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,75
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,127
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,13
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,11
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,2
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,2
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,EXREC,70
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,66
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,2842
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1584
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,346
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,3287
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,32
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,43
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,26
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,9
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,7
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,0
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,1
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,8
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,7
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,283
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,INIMP,1
+226,5,Carmelo,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,2
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,799
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,480
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,238
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,181
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,4
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,560
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,90
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,125
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INDTR,55
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,21
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,13
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,2
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,1
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,3
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,880
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,470
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,306
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,301
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,1186
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,771
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,773
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,648
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,113
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,104
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,113
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,648
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,123
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,6
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,31
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,24
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,17
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,15
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,48
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,39
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,48
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INDINI,24
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,13
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,21
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,13
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,1
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,1
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,1153
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,20
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,158
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,117
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,19
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,12
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,EXREC,160
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,160
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,1461
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1254
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,266
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,4061
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,9
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,44
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,87
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,14
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,14
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,0
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,18
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,18
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,353
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,INIMP,19
+240,6,Durazno,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,67
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,187
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,186
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,148
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,90
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,5
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,10
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,102
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,35
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INDTR,3
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,2
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,3
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,2
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,1
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,389
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,281
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,17
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,39
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,406
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,320
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,321
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,224
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,16
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,34
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,85
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,50
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,258
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,62
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,11
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,6
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,18
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,6
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,18
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,6
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INDINI,14
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,2
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,5
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,6
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,7
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,1
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,251
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,33
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,5
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,2
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,78
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,60
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,6
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,4
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,1
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,EXREC,97
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,95
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,1303
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1597
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,43
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,2404
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,30
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,27
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,52
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,3
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,9
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,2
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,0
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,5
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,7
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,130
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,INIMP,2
+253,7,Trinidad,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,128
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,343
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,122
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,141
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,3
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,22
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,243
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,66
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,33
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INDTR,85
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,41
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,18
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,5
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,1
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,1
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,616
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,793
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,234
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,176
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,850
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,969
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,480
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,608
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,81
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,76
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,136
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,157
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,684
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,285
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,28
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,74
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,74
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,11
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,9
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,85
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,83
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,33
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INDINI,85
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,18
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,41
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,18
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,1
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,2
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,829
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,13
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,55
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,129
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,113
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,18
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,17
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,EXREC,150
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,143
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,2015
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,974
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,301
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,3016
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,49
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,62
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,2
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,4
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,2
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,39
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,28
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,327
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,INIMP,27
+259,8,Florida,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,0
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,839
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,1170
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,303
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,424
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,10
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,107
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,614
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,76
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,23
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INDTR,104
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,9
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,58
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,43
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,10
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,12
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,1070
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,1344
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,272
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,40
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,1342
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,1384
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,892
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,1469
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,53
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,197
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,192
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,250
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,1666
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,-282
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,7
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,93
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,129
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,12
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,8
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,105
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,137
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,61
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INDINI,104
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,5
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,28
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,32
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,33
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,2
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,6
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,1916
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,18
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,125
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,1
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,147
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,172
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,35
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,30
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,EXREC,278
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,274
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,6377
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,2847
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,648
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,6381
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,1
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,90
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,88
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,3
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,6
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,2
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,4
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,1
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,54
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,51
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,519
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,INIMP,7
+273,9,Minas,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,145
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR_ANT,670
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR,756
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SUMTR_ANT,359
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SUMTR,353
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,CUMTR_ANT,174
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,CUMTR,103
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRPE,1153
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,CUMSENT,532
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INDTR_ANT,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INFRTR_ANT,18
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INFRTR,16
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRADOL,16
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,ADUATR_ANT,14
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,ADUATR,5
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN_ANT,1203
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN,822
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ_ANT,56
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ,1
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIPEN_ANT,1259
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIPEN,823
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESINI_ANT,525
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESINI,655
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SUMINICPRE,196
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SUMINISPRE,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SUMINI_ANT,209
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SUMINI,196
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIPEN2,655
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AICHEQPEN,168
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,CUMINI,58
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL_ANT,18
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL,24
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ_ANT,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ,1
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIADOL_ANT,18
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIADOL,25
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INDINI_ANT,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INDINI,24
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INFRINICIND,24
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INFRINI_ANT,32
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INFRINI,24
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIADUA_ANT,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AIADUA,2
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AARCHPEN,134
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AREMTPEN,14
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AARCHADOL,15
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AARCHADUA,1
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,AREMTADUA,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN_ANT,220
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN,157
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL_ANT,14
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL,17
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU_ANT,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,EXREC,168
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,EXCUM,67
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PROVPRES,1047
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PROVSUM,849
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PROVADOL,94
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,OFILIB,1105
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,DILALGUA,9
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS_ANT,162
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS,178
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS_ANT,44
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS,35
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,ADOLCSENT,2
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,COMDNA,0
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN_ANT,64
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN,62
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,PENLIB,1437
+287,10,Maldonado,-1,-1,1,-1,-1,1,2,-1,16,INIMP,2
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESUMTR_ANT,743
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESUMTR,867
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SUMTR_ANT,529
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SUMTR,461
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,CUMTR_ANT,446
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,CUMTR,440
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,EXPEJECTRPE,1246
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,CUMSENT,201
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INDTR_ANT,32
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INDTR,37
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INFRTR_ANT,8
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INFRTR,7
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,EXPEJECTRADOL,25
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,ADUATR_ANT,6
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,ADUATR,5
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIJDOPEN_ANT,804
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIJDOPEN,1010
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIPENPAZ_ANT,101
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIPENPAZ,74
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIPEN_ANT,905
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIPEN,1084
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESINI_ANT,631
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESINI,709
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SUMINICPRE,19
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SUMINISPRE,242
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SUMINI_ANT,177
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SUMINI,261
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIPEN2,951
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AICHEQPEN,133
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,CUMINI,40
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIJDOADOL_ANT,83
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIJDOADOL,67
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIADOLPAZ_ANT,2
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIADOLPAZ,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIADOL_ANT,85
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIADOL,67
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INDINI_ANT,62
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INDINI,37
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INFRINICIND,2
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INFRINISIND,28
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INFRINI_ANT,21
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INFRINI,30
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIADUA_ANT,4
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AIADUA,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AARCHPEN,1573
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AREMTPEN,22
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AARCHADOL,77
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AREMTADOL,1
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AARCHADUA,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,AREMTADUA,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SENDEFPEN_ANT,280
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SENDEFPEN,317
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADOL_ANT,26
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADOL,20
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADU_ANT,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADU,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,EXREC,419
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,EXCUM,390
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PROVPRES,4626
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PROVSUM,3332
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PROVADOL,150
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,OFILIB,7054
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,DILALGUA,4
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESOSS_ANT,143
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESOSS,143
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESOCS_ANT,7
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESOCS,20
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,ADOLCSENT,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,ADOLSSENT,1
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,COMDNA,0
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESOPEN_ANT,48
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PRESOPEN,75
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PENLIB,1253
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,INIMP,5
+288,10,Maldonado,-1,-1,1,-1,-1,1,4,-1,16,PROFUG,352
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESUMTR_ANT,743
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESUMTR,849
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SUMTR_ANT,326
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SUMTR,387
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,CUMTR_ANT,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,CUMTR,2
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,EXPEJECTRPE,198
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,CUMSENT,47
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INDTR_ANT,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INFRTR_ANT,36
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INFRTR,28
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,EXPEJECTRADOL,24
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,ADUATR_ANT,9
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,ADUATR,4
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIJDOPEN_ANT,849
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIJDOPEN,1052
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIPENPAZ_ANT,35
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIPENPAZ,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIPEN_ANT,884
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIPEN,1052
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESINI_ANT,449
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESINI,883
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SUMINICPRE,246
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SUMINISPRE,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SUMINI_ANT,235
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SUMINI,246
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIPEN2,883
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AICHEQPEN,169
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,CUMINI,12
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIJDOADOL_ANT,36
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIJDOADOL,21
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIADOLPAZ_ANT,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIADOLPAZ,1
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIADOL_ANT,36
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIADOL,22
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INDINI_ANT,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INDINI,21
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INFRINICIND,21
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INFRINI_ANT,36
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INFRINI,21
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIADUA_ANT,8
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AIADUA,1
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AARCHPEN,139
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AREMTPEN,1
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AARCHADOL,21
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AREMTADOL,3
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,AREMTADUA,1
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SENDEFPEN_ANT,135
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SENDEFPEN,159
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SENDEFADOL_ANT,27
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SENDEFADOL,25
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SENDEFADU_ANT,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,SENDEFADU,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,EXREC,133
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,EXCUM,45
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PROVPRES,1451
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PROVSUM,819
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PROVADOL,135
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,OFILIB,896
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,DILALGUA,4
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESOSS_ANT,108
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESOSS,189
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESOCS_ANT,15
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESOCS,6
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,ADOLCSENT,3
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,COMDNA,0
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESOPEN_ANT,6
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PRESOPEN,23
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,PENLIB,242
+523,10,Maldonado,-1,-1,1,-1,-1,1,10,-1,16,INIMP,1
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR_ANT,428
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR,728
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SUMTR_ANT,355
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SUMTR,435
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,CUMTR_ANT,15
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,CUMTR,18
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRPE,560
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,CUMSENT,94
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INDTR_ANT,66
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INDTR,11
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INFRTR_ANT,42
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INFRTR,3
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,ADUATR_ANT,20
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,ADUATR,21
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN_ANT,587
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN,806
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ_ANT,39
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ,0
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIPEN_ANT,626
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIPEN,806
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESINI_ANT,319
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESINI,469
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SUMINICPRE,0
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SUMINISPRE,307
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SUMINI_ANT,196
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SUMINI,307
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIPEN2,776
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AICHEQPEN,30
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,CUMINI,30
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL_ANT,47
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL,15
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ_ANT,7
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ,2
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIADOL_ANT,54
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIADOL,17
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INDINI_ANT,18
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INDINI,9
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INFRINISIND,8
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INFRINI_ANT,42
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INFRINI,8
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIADUA_ANT,13
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AIADUA,6
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AARCHPEN,670
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AREMTPEN,21
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AARCHADOL,78
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AREMTADOL,1
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AARCHADUA,10
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,AREMTADUA,0
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN_ANT,213
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN,271
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL_ANT,16
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU_ANT,5
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,EXREC,167
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,EXCUM,160
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PROVPRES,4586
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,OFILIB,7123
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,DILALGUA,15
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS_ANT,65
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS,72
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS_ANT,16
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS,19
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,ADOLCSENT,0
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,ADOLSSENT,2
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,COMDNA,2
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN_ANT,26
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN,18
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PENLIB,685
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,INIMP,20
+302,11,Paysandú,-1,-1,1,-1,-1,1,2,-1,16,PROFUG,1
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESUMTR_ANT,712
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESUMTR,918
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SUMTR_ANT,379
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SUMTR,448
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,CUMTR_ANT,107
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,CUMTR,87
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,EXPEJECTRPE,592
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,CUMSENT,109
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INDTR_ANT,57
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INDTR,23
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INFRTR_ANT,39
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INFRTR,4
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,EXPEJECTRADOL,1
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,ADUATR_ANT,15
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,ADUATR,32
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIJDOPEN_ANT,586
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIJDOPEN,840
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIPENPAZ_ANT,33
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIPENPAZ,0
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIPEN_ANT,619
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIPEN,840
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESINI_ANT,293
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESINI,506
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SUMINICPRE,0
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SUMINISPRE,301
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SUMINI_ANT,236
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SUMINI,301
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIPEN2,807
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AICHEQPEN,33
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,CUMINI,33
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIJDOADOL_ANT,43
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIJDOADOL,37
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIADOLPAZ_ANT,9
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIADOLPAZ,2
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIADOL_ANT,52
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIADOL,39
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INDINI_ANT,14
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INDINI,18
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INFRINISIND,21
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INFRINI_ANT,39
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INFRINI,21
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIADUA_ANT,12
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AIADUA,13
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AARCHPEN,502
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AREMTPEN,47
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AARCHADOL,64
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AREMTADOL,1
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AARCHADUA,4
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,AREMTADUA,0
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SENDEFPEN_ANT,174
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SENDEFPEN,285
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADOL_ANT,20
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADU_ANT,4
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,EXREC,117
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,EXCUM,115
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PROVPRES,4320
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,OFILIB,6944
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,DILALGUA,12
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESOSS_ANT,97
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESOSS,104
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESOCS_ANT,31
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESOCS,21
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,ADOLCSENT,1
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,ADOLSSENT,0
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,COMDNA,0
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESOPEN_ANT,14
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PRESOPEN,34
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PENLIB,830
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,INIMP,9
+303,11,Paysandú,-1,-1,1,-1,-1,1,4,-1,16,PROFUG,2
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,390
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,565
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,111
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,89
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,20
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,14
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,317
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,70
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,25
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,13
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,21
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,8
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,0
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,40
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,723
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,859
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,50
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,59
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,773
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,918
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,767
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,780
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,35
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,28
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,64
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,63
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,808
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,110
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,16
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,13
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,10
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,0
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,2
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,13
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,12
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,25
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INDINI,26
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,2
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,10
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,13
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,12
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,0
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,8
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,659
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,9
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,13
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,4
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,1
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,92
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,92
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,13
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,9
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,4
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,EXREC,252
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,227
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,4571
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1600
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,155
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,3973
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,15
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,40
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,32
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,2
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,3
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,1
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,2
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,15
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,20
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,297
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,INIMP,3
+316,12,Fray Bentos,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,3
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,1105
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,1521
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,692
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,1181
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,54
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,61
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,783
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,51
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,30
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INDTR,104
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,9
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,11
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,10
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,164
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,160
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,747
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,1421
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,60
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,40
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,807
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,1461
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,467
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,739
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,20
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,530
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,226
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,550
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,1269
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,192
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,9
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,21
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,104
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,3
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,3
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,24
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,107
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,39
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INDINI,114
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,11
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,9
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,11
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,25
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,20
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,440
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,15
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,22
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,2
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,4
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,70
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,92
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,5
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,7
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,2
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,2
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,EXREC,337
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,272
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,948
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,858
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,159
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,1276
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,4
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,89
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,82
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,20
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,16
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,0
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,4
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,59
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,74
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,1382
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,INIMP,7
+327,13,Rivera,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,3
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR_ANT,1656
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR,1393
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SUMTR_ANT,539
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SUMTR,1008
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,CUMTR_ANT,52
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,CUMTR,59
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRPE,593
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,CUMSENT,45
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INDTR_ANT,68
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INDTR,130
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INFRTR_ANT,17
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INFRTR,24
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRADOL,14
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,ADUATR_ANT,105
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,ADUATR,93
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN_ANT,871
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN,1914
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ_ANT,72
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ,27
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIPEN_ANT,943
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIPEN,1941
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESINI_ANT,692
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESINI,1393
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SUMINICPRE,21
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SUMINISPRE,500
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SUMINI_ANT,154
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SUMINI,521
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIPEN2,1893
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AICHEQPEN,48
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,CUMINI,9
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL_ANT,58
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL,130
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ_ANT,5
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ,4
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIADOL_ANT,63
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIADOL,134
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INDINI_ANT,68
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INDINI,154
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INFRINICIND,24
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INFRINISIND,0
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INFRINI_ANT,17
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INFRINI,24
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIADUA_ANT,17
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AIADUA,18
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AARCHPEN,440
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AREMTPEN,15
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AARCHADOL,22
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AREMTADOL,2
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AARCHADUA,7
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,AREMTADUA,0
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN_ANT,62
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN,54
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL_ANT,7
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL,10
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU_ANT,2
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU,1
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,EXREC,271
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,EXCUM,222
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PROVPRES,948
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PROVSUM,858
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PROVADOL,159
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,OFILIB,1276
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,DILALGUA,3
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS_ANT,94
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS,93
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS_ANT,23
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS,15
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,ADOLCSENT,3
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,ADOLSSENT,0
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,COMDNA,3
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN_ANT,64
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN,82
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PENLIB,1187
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,INIMP,11
+328,13,Rivera,-1,-1,1,-1,-1,1,2,-1,16,PROFUG,4
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,295
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,386
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,93
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,89
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,17
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,55
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,350
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,14
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,25
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INDTR,6
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,4
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,5
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,3
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,13
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,5
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,360
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,480
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,162
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,191
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,522
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,671
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,454
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,395
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,27
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,62
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,68
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,89
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,457
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,214
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,6
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,22
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,10
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,7
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,1
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,29
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,11
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,32
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INDINI,6
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,5
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,4
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,5
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,7
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,6
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,500
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,3
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,13
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,6
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,87
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,98
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,6
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,5
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,1
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,EXREC,156
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,155
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,2552
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,154
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,2585
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,23
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,36
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,16
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,5
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,0
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,4
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,4
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,12
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,317
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,INIMP,7
+339,14,Rocha,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,2
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR_ANT,188
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR,399
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SUMTR_ANT,152
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SUMTR,149
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,CUMTR_ANT,5
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,CUMTR,28
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRPE,265
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,CUMSENT,4
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INDTR_ANT,16
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INDTR,12
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INFRTR_ANT,4
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INFRTR,10
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRADOL,4
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,ADUATR_ANT,3
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,ADUATR,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN_ANT,397
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN,487
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ_ANT,188
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ,126
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIPEN_ANT,585
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIPEN,613
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESINI_ANT,454
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESINI,349
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SUMINICPRE,63
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SUMINISPRE,86
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SUMINI_ANT,131
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SUMINI,149
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIPEN2,435
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AICHEQPEN,178
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,CUMINI,3
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL_ANT,16
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL,21
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ_ANT,4
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIADOL_ANT,20
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIADOL,21
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INDINI_ANT,22
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INDINI,12
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INFRINICIND,9
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INFRINISIND,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INFRINI_ANT,5
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INFRINI,9
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIADUA_ANT,10
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AIADUA,6
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AARCHPEN,381
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AREMTPEN,9
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AARCHADOL,16
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AREMTADOL,2
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AARCHADUA,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,AREMTADUA,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN_ANT,94
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN,103
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL_ANT,7
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL,9
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU_ANT,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,EXREC,113
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,EXCUM,112
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PROVSUM,2337
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PROVADOL,187
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,OFILIB,3712
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS_ANT,54
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS,35
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS_ANT,4
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS,9
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,ADOLCSENT,1
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,ADOLSSENT,0
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,COMDNA,5
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN_ANT,7
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN,15
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PENLIB,230
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,INIMP,1
+340,14,Rocha,-1,-1,1,-1,-1,1,2,-1,16,PROFUG,2
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR_ANT,696
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESUMTR,713
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SUMTR_ANT,417
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SUMTR,479
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,CUMTR_ANT,106
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,CUMTR,92
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRPE,485
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,CUMSENT,66
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INDTR_ANT,2
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INDTR,2
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INFRTR_ANT,33
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INFRTR,45
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,EXPEJECTRADOL,29
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,ADUATR_ANT,55
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,ADUATR,29
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN_ANT,814
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIJDOPEN,889
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ_ANT,15
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIPENPAZ,8
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIPEN_ANT,829
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIPEN,897
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESINI_ANT,545
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESINI,617
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SUMINICPRE,206
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SUMINISPRE,0
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SUMINI_ANT,163
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SUMINI,206
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIPEN2,617
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AICHEQPEN,280
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL_ANT,35
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIJDOADOL,33
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ_ANT,0
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIADOLPAZ,0
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIADOL_ANT,35
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIADOL,33
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INDINI_ANT,2
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INDINI,2
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INFRINICIND,30
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INFRINI_ANT,33
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INFRINI,30
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIADUA_ANT,14
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AIADUA,10
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AARCHPEN,131
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AREMTPEN,17
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AARCHADOL,5
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AREMTADOL,3
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AARCHADUA,1
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,AREMTADUA,0
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN_ANT,109
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SENDEFPEN,183
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL_ANT,31
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADOL,30
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU_ANT,1
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,SENDEFADU,4
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,EXREC,171
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,EXCUM,162
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PROVPRES,993
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PROVSUM,625
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PROVADOL,105
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,OFILIB,8799
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,DILALGUA,6
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS_ANT,136
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESOSS,175
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS_ANT,19
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESOCS,12
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,ADOLCSENT,3
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,ADOLSSENT,0
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,COMDNA,1
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN_ANT,29
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PRESOPEN,29
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PENLIB,456
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,INIMP,10
+354,15,Salto,-1,-1,1,-1,-1,1,2,-1,16,PROFUG,19
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESUMTR_ANT,886
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESUMTR,779
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SUMTR_ANT,418
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SUMTR,544
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,CUMTR_ANT,111
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,CUMTR,88
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,EXPEJECTRPE,316
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,CUMSENT,50
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INDTR_ANT,2
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INDTR,5
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INFRTR_ANT,26
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INFRTR,31
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,EXPEJECTRADOL,22
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,ADUATR_ANT,31
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,ADUATR,16
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIJDOPEN_ANT,654
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIJDOPEN,854
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIPENPAZ_ANT,55
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIPENPAZ,11
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIPEN_ANT,709
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIPEN,865
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESINI_ANT,476
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESINI,613
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SUMINICPRE,191
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SUMINISPRE,0
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SUMINI_ANT,122
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SUMINI,191
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIPEN2,613
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AICHEQPEN,252
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIJDOADOL_ANT,17
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIJDOADOL,36
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIADOLPAZ_ANT,1
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIADOLPAZ,0
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIADOL_ANT,18
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIADOL,36
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INDINI_ANT,1
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INDINI,4
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INFRINICIND,32
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INFRINI_ANT,16
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INFRINI,32
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIADUA_ANT,11
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AIADUA,9
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AARCHPEN,145
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AREMTPEN,3
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AARCHADOL,2
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AREMTADOL,2
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AARCHADUA,3
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,AREMTADUA,0
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SENDEFPEN_ANT,75
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SENDEFPEN,153
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADOL_ANT,29
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADOL,17
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADU_ANT,0
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,SENDEFADU,4
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,EXREC,103
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,EXCUM,100
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PROVPRES,782
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PROVSUM,531
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PROVADOL,71
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,OFILIB,8724
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,DILALGUA,4
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESOSS_ANT,98
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESOSS,171
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESOCS_ANT,10
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESOCS,11
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,ADOLCSENT,3
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,ADOLSSENT,1
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,COMDNA,1
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESOPEN_ANT,27
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PRESOPEN,29
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PENLIB,375
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,INIMP,6
+355,15,Salto,-1,-1,1,-1,-1,1,4,-1,16,PROFUG,14
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,276
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,581
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,143
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,170
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,26
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,49
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,350
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,81
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,27
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INDTR,17
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,8
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,1
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,8
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,1
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,1
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,801
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,754
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,194
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,1
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,995
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,755
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,686
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,743
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,25
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,131
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,121
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,156
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,874
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,-119
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,19
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,31
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,31
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,4
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,35
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,31
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,27
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INDINI,24
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,7
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,8
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,7
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,1
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,783
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,4
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,16
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,68
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,150
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,8
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,6
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,EXREC,308
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,302
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,1609
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,1044
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,90
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,3471
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,54
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,77
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,9
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,9
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,1
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,0
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,21
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,24
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,460
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,INIMP,38
+369,16,San José ,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,6
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,514
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,1399
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,300
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,442
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,87
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,86
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,432
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,71
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,34
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INDTR,13
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,22
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,11
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,42
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,1
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,1055
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,1573
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,50
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,98
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,1105
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,1671
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,735
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,1560
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,197
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,300
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,197
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,1560
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,111
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,25
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,58
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,25
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,58
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,34
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INDINI,58
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,39
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,31
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,39
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,1
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,817
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,22
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,17
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,3
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,87
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,142
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,21
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,39
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,EXREC,640
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,640
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,6071
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,349
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,2754
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,301
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,208
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,14
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,14
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,2
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,93
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,81
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,350
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,INIMP,3
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,DENPOLVD,244
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIOTRJDOVD,329
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIBARVD,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AIVD,573
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AREPEVD,10
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,EXPTR_VD,575
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AARCHVD,241
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AICNA,112
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,ARLDOCNA,7
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,EXPTR_CNA,405
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AI18895,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,SENDEF18895,0
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,EXPTR_31/12/2016,980
+529,16,Libertad,-1,-1,1,-1,-1,1,1,-1,16,AUDR,0
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,925
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,816
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,298
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,308
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,24
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,14
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,448
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,245
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,60
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INDTR,33
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,67
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,31
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,30
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,2
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,3
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,942
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,1143
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,185
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,178
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,1127
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,1321
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,737
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,989
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,13
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,154
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,193
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,167
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,1143
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,178
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,9
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,133
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,75
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,5
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,6
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,138
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,81
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,60
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INDINI,81
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,29
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,73
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,29
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,2
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,2
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,959
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,22
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,189
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,1
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,201
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,198
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,26
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,32
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,EXREC,377
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,362
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,5939
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,3251
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,514
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,8695
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,78
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,104
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,170
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,16
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,12
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,8
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,2
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,27
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,30
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,436
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,INIMP,7
+380,17,Mercedes,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,1
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,872
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,912
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,277
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,251
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,51
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,73
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,489
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,82
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,3
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INDTR,6
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,20
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,17
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,1
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,29
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,1
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,543
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,985
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,81
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,80
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,624
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,1065
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,361
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,874
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,110
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,158
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,110
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,874
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,191
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,27
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,17
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,23
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,1
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,18
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,23
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,3
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INDINI,6
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,17
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,15
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,17
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,18
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,1
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,902
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,34
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,31
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,170
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,203
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,16
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,13
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,3
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,EXREC,219
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,209
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,2396
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,2875
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,220
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,6121
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,78
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,42
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,12
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,34
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,3
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,0
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,40
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,76
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,398
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,INIMP,12
+395,18,Tacuarembó,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,7
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR_ANT,1527
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESUMTR,1433
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SUMTR_ANT,402
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SUMTR,441
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,CUMTR_ANT,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,CUMTR,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRPE,476
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,CUMSENT,76
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INDTR_ANT,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INDTR,11
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INFRTR_ANT,12
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INFRTR,27
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,EXPEJECTRADOL,27
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,ADUATR_ANT,16
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,ADUATR,17
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN_ANT,1432
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIJDOPEN,804
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ_ANT,3
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIPENPAZ,126
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIPEN_ANT,1435
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIPEN,930
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESINI_ANT,1254
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESINI,660
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SUMINICPRE,15
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SUMINISPRE,120
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SUMINI_ANT,174
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SUMINI,135
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIPEN2,780
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AICHEQPEN,150
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,CUMINI,9
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL_ANT,16
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIJDOADOL,11
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ_ANT,2
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIADOLPAZ,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIADOL_ANT,18
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIADOL,11
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INDINI_ANT,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INDINI,5
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INFRINICIND,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INFRINISIND,5
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INFRINI_ANT,17
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INFRINI,6
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIADUA_ANT,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AIADUA,11
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AARCHPEN,909
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AREMTPEN,9
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AARCHADOL,27
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AREMTADOL,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AARCHADUA,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,AREMTADUA,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN_ANT,107
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SENDEFPEN,78
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL_ANT,17
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADOL,11
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU_ANT,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,SENDEFADU,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,EXREC,123
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,EXCUM,118
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PROVPRES,4450
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PROVSUM,3122
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PROVADOL,242
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,OFILIB,5591
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,DILALGUA,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS_ANT,80
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESOSS,73
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS_ANT,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESOCS,11
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,ADOLCSENT,1
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,ADOLSSENT,0
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,COMDNA,9
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN_ANT,11
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PRESOPEN,14
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PENLIB,327
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,INIMP,40
+411,19,Treinta y Tres,-1,-1,1,-1,-1,1,1,-1,16,PROFUG,1

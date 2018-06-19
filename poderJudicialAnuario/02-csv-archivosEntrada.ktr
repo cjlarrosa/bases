@@ -1,0 +1,4943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transformation>
+  <info>
+    <name>02-csv-archivosEntrada</name>
+    <description />
+    <extended_description />
+    <trans_version />
+    <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
+    <directory>/</directory>
+    <parameters>
+      <parameter>
+        <name>cambioEtiqueta</name>
+        <default_value>Act_Jur;Cantidad</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>nombreBase</name>
+        <default_value>base</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>nombreHoja</name>
+        <default_value>pestaña</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>p_config_archivo</name>
+        <default_value>archivoConfig.xlsx</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>p_directorio_config</name>
+        <default_value>${Internal.Entry.Current.Directory}/config/</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>p_directorio_input_db</name>
+        <default_value>${Internal.Entry.Current.Directory}/input_db/</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>p_etiquetas_fijas</name>
+        <default_value>Variable,Valor</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>p_nombre_db</name>
+        <default_value>BASE ANUAL 2015.xls</default_value>
+        <description />
+      </parameter>
+      <parameter>
+        <name>p_nombre_diccionario</name>
+        <default_value />
+        <description />
+      </parameter>
+      <parameter>
+        <name>p_output</name>
+        <default_value>${Internal.Entry.Current.Directory}/output/</default_value>
+        <description />
+      </parameter>
+    </parameters>
+    <log>
+      <trans-log-table>
+        <connection />
+        <schema />
+        <table />
+        <size_limit_lines />
+        <interval />
+        <timeout_days />
+        <field>
+          <id>ID_BATCH</id>
+          <enabled>Y</enabled>
+          <name>ID_BATCH</name>
+        </field>
+        <field>
+          <id>CHANNEL_ID</id>
+          <enabled>Y</enabled>
+          <name>CHANNEL_ID</name>
+        </field>
+        <field>
+          <id>TRANSNAME</id>
+          <enabled>Y</enabled>
+          <name>TRANSNAME</name>
+        </field>
+        <field>
+          <id>STATUS</id>
+          <enabled>Y</enabled>
+          <name>STATUS</name>
+        </field>
+        <field>
+          <id>LINES_READ</id>
+          <enabled>Y</enabled>
+          <name>LINES_READ</name>
+          <subject />
+        </field>
+        <field>
+          <id>LINES_WRITTEN</id>
+          <enabled>Y</enabled>
+          <name>LINES_WRITTEN</name>
+          <subject />
+        </field>
+        <field>
+          <id>LINES_UPDATED</id>
+          <enabled>Y</enabled>
+          <name>LINES_UPDATED</name>
+          <subject />
+        </field>
+        <field>
+          <id>LINES_INPUT</id>
+          <enabled>Y</enabled>
+          <name>LINES_INPUT</name>
+          <subject />
+        </field>
+        <field>
+          <id>LINES_OUTPUT</id>
+          <enabled>Y</enabled>
+          <name>LINES_OUTPUT</name>
+          <subject />
+        </field>
+        <field>
+          <id>LINES_REJECTED</id>
+          <enabled>Y</enabled>
+          <name>LINES_REJECTED</name>
+          <subject />
+        </field>
+        <field>
+          <id>ERRORS</id>
+          <enabled>Y</enabled>
+          <name>ERRORS</name>
+        </field>
+        <field>
+          <id>STARTDATE</id>
+          <enabled>Y</enabled>
+          <name>STARTDATE</name>
+        </field>
+        <field>
+          <id>ENDDATE</id>
+          <enabled>Y</enabled>
+          <name>ENDDATE</name>
+        </field>
+        <field>
+          <id>LOGDATE</id>
+          <enabled>Y</enabled>
+          <name>LOGDATE</name>
+        </field>
+        <field>
+          <id>DEPDATE</id>
+          <enabled>Y</enabled>
+          <name>DEPDATE</name>
+        </field>
+        <field>
+          <id>REPLAYDATE</id>
+          <enabled>Y</enabled>
+          <name>REPLAYDATE</name>
+        </field>
+        <field>
+          <id>LOG_FIELD</id>
+          <enabled>Y</enabled>
+          <name>LOG_FIELD</name>
+        </field>
+        <field>
+          <id>EXECUTING_SERVER</id>
+          <enabled>N</enabled>
+          <name>EXECUTING_SERVER</name>
+        </field>
+        <field>
+          <id>EXECUTING_USER</id>
+          <enabled>N</enabled>
+          <name>EXECUTING_USER</name>
+        </field>
+        <field>
+          <id>CLIENT</id>
+          <enabled>N</enabled>
+          <name>CLIENT</name>
+        </field>
+      </trans-log-table>
+      <perf-log-table>
+        <connection />
+        <schema />
+        <table />
+        <interval />
+        <timeout_days />
+        <field>
+          <id>ID_BATCH</id>
+          <enabled>Y</enabled>
+          <name>ID_BATCH</name>
+        </field>
+        <field>
+          <id>SEQ_NR</id>
+          <enabled>Y</enabled>
+          <name>SEQ_NR</name>
+        </field>
+        <field>
+          <id>LOGDATE</id>
+          <enabled>Y</enabled>
+          <name>LOGDATE</name>
+        </field>
+        <field>
+          <id>TRANSNAME</id>
+          <enabled>Y</enabled>
+          <name>TRANSNAME</name>
+        </field>
+        <field>
+          <id>STEPNAME</id>
+          <enabled>Y</enabled>
+          <name>STEPNAME</name>
+        </field>
+        <field>
+          <id>STEP_COPY</id>
+          <enabled>Y</enabled>
+          <name>STEP_COPY</name>
+        </field>
+        <field>
+          <id>LINES_READ</id>
+          <enabled>Y</enabled>
+          <name>LINES_READ</name>
+        </field>
+        <field>
+          <id>LINES_WRITTEN</id>
+          <enabled>Y</enabled>
+          <name>LINES_WRITTEN</name>
+        </field>
+        <field>
+          <id>LINES_UPDATED</id>
+          <enabled>Y</enabled>
+          <name>LINES_UPDATED</name>
+        </field>
+        <field>
+          <id>LINES_INPUT</id>
+          <enabled>Y</enabled>
+          <name>LINES_INPUT</name>
+        </field>
+        <field>
+          <id>LINES_OUTPUT</id>
+          <enabled>Y</enabled>
+          <name>LINES_OUTPUT</name>
+        </field>
+        <field>
+          <id>LINES_REJECTED</id>
+          <enabled>Y</enabled>
+          <name>LINES_REJECTED</name>
+        </field>
+        <field>
+          <id>ERRORS</id>
+          <enabled>Y</enabled>
+          <name>ERRORS</name>
+        </field>
+        <field>
+          <id>INPUT_BUFFER_ROWS</id>
+          <enabled>Y</enabled>
+          <name>INPUT_BUFFER_ROWS</name>
+        </field>
+        <field>
+          <id>OUTPUT_BUFFER_ROWS</id>
+          <enabled>Y</enabled>
+          <name>OUTPUT_BUFFER_ROWS</name>
+        </field>
+      </perf-log-table>
+      <channel-log-table>
+        <connection />
+        <schema />
+        <table />
+        <timeout_days />
+        <field>
+          <id>ID_BATCH</id>
+          <enabled>Y</enabled>
+          <name>ID_BATCH</name>
+        </field>
+        <field>
+          <id>CHANNEL_ID</id>
+          <enabled>Y</enabled>
+          <name>CHANNEL_ID</name>
+        </field>
+        <field>
+          <id>LOG_DATE</id>
+          <enabled>Y</enabled>
+          <name>LOG_DATE</name>
+        </field>
+        <field>
+          <id>LOGGING_OBJECT_TYPE</id>
+          <enabled>Y</enabled>
+          <name>LOGGING_OBJECT_TYPE</name>
+        </field>
+        <field>
+          <id>OBJECT_NAME</id>
+          <enabled>Y</enabled>
+          <name>OBJECT_NAME</name>
+        </field>
+        <field>
+          <id>OBJECT_COPY</id>
+          <enabled>Y</enabled>
+          <name>OBJECT_COPY</name>
+        </field>
+        <field>
+          <id>REPOSITORY_DIRECTORY</id>
+          <enabled>Y</enabled>
+          <name>REPOSITORY_DIRECTORY</name>
+        </field>
+        <field>
+          <id>FILENAME</id>
+          <enabled>Y</enabled>
+          <name>FILENAME</name>
+        </field>
+        <field>
+          <id>OBJECT_ID</id>
+          <enabled>Y</enabled>
+          <name>OBJECT_ID</name>
+        </field>
+        <field>
+          <id>OBJECT_REVISION</id>
+          <enabled>Y</enabled>
+          <name>OBJECT_REVISION</name>
+        </field>
+        <field>
+          <id>PARENT_CHANNEL_ID</id>
+          <enabled>Y</enabled>
+          <name>PARENT_CHANNEL_ID</name>
+        </field>
+        <field>
+          <id>ROOT_CHANNEL_ID</id>
+          <enabled>Y</enabled>
+          <name>ROOT_CHANNEL_ID</name>
+        </field>
+      </channel-log-table>
+      <step-log-table>
+        <connection />
+        <schema />
+        <table />
+        <timeout_days />
+        <field>
+          <id>ID_BATCH</id>
+          <enabled>Y</enabled>
+          <name>ID_BATCH</name>
+        </field>
+        <field>
+          <id>CHANNEL_ID</id>
+          <enabled>Y</enabled>
+          <name>CHANNEL_ID</name>
+        </field>
+        <field>
+          <id>LOG_DATE</id>
+          <enabled>Y</enabled>
+          <name>LOG_DATE</name>
+        </field>
+        <field>
+          <id>TRANSNAME</id>
+          <enabled>Y</enabled>
+          <name>TRANSNAME</name>
+        </field>
+        <field>
+          <id>STEPNAME</id>
+          <enabled>Y</enabled>
+          <name>STEPNAME</name>
+        </field>
+        <field>
+          <id>STEP_COPY</id>
+          <enabled>Y</enabled>
+          <name>STEP_COPY</name>
+        </field>
+        <field>
+          <id>LINES_READ</id>
+          <enabled>Y</enabled>
+          <name>LINES_READ</name>
+        </field>
+        <field>
+          <id>LINES_WRITTEN</id>
+          <enabled>Y</enabled>
+          <name>LINES_WRITTEN</name>
+        </field>
+        <field>
+          <id>LINES_UPDATED</id>
+          <enabled>Y</enabled>
+          <name>LINES_UPDATED</name>
+        </field>
+        <field>
+          <id>LINES_INPUT</id>
+          <enabled>Y</enabled>
+          <name>LINES_INPUT</name>
+        </field>
+        <field>
+          <id>LINES_OUTPUT</id>
+          <enabled>Y</enabled>
+          <name>LINES_OUTPUT</name>
+        </field>
+        <field>
+          <id>LINES_REJECTED</id>
+          <enabled>Y</enabled>
+          <name>LINES_REJECTED</name>
+        </field>
+        <field>
+          <id>ERRORS</id>
+          <enabled>Y</enabled>
+          <name>ERRORS</name>
+        </field>
+        <field>
+          <id>LOG_FIELD</id>
+          <enabled>N</enabled>
+          <name>LOG_FIELD</name>
+        </field>
+      </step-log-table>
+      <metrics-log-table>
+        <connection />
+        <schema />
+        <table />
+        <timeout_days />
+        <field>
+          <id>ID_BATCH</id>
+          <enabled>Y</enabled>
+          <name>ID_BATCH</name>
+        </field>
+        <field>
+          <id>CHANNEL_ID</id>
+          <enabled>Y</enabled>
+          <name>CHANNEL_ID</name>
+        </field>
+        <field>
+          <id>LOG_DATE</id>
+          <enabled>Y</enabled>
+          <name>LOG_DATE</name>
+        </field>
+        <field>
+          <id>METRICS_DATE</id>
+          <enabled>Y</enabled>
+          <name>METRICS_DATE</name>
+        </field>
+        <field>
+          <id>METRICS_CODE</id>
+          <enabled>Y</enabled>
+          <name>METRICS_CODE</name>
+        </field>
+        <field>
+          <id>METRICS_DESCRIPTION</id>
+          <enabled>Y</enabled>
+          <name>METRICS_DESCRIPTION</name>
+        </field>
+        <field>
+          <id>METRICS_SUBJECT</id>
+          <enabled>Y</enabled>
+          <name>METRICS_SUBJECT</name>
+        </field>
+        <field>
+          <id>METRICS_TYPE</id>
+          <enabled>Y</enabled>
+          <name>METRICS_TYPE</name>
+        </field>
+        <field>
+          <id>METRICS_VALUE</id>
+          <enabled>Y</enabled>
+          <name>METRICS_VALUE</name>
+        </field>
+      </metrics-log-table>
+    </log>
+    <maxdate>
+      <connection />
+      <table />
+      <field />
+      <offset>0.0</offset>
+      <maxdiff>0.0</maxdiff>
+    </maxdate>
+    <size_rowset>10000</size_rowset>
+    <sleep_time_empty>50</sleep_time_empty>
+    <sleep_time_full>50</sleep_time_full>
+    <unique_connections>N</unique_connections>
+    <feedback_shown>Y</feedback_shown>
+    <feedback_size>50000</feedback_size>
+    <using_thread_priorities>Y</using_thread_priorities>
+    <shared_objects_file />
+    <capture_step_performance>N</capture_step_performance>
+    <step_performance_capturing_delay>1000</step_performance_capturing_delay>
+    <step_performance_capturing_size_limit>100</step_performance_capturing_size_limit>
+    <dependencies>
+    </dependencies>
+    <partitionschemas>
+    </partitionschemas>
+    <slaveservers>
+      <slaveserver>
+        <name>192.168.1.50</name>
+        <hostname>192.168.1.199</hostname>
+        <port>8070</port>
+        <webAppName />
+        <username>cluster</username>
+        <password>Encrypted 2be98afc86aa7f2e4cb1aa265cd86aac8</password>
+        <proxy_hostname />
+        <proxy_port />
+        <non_proxy_hosts />
+        <master>Y</master>
+        <sslMode>N</sslMode>
+      </slaveserver>
+    </slaveservers>
+    <clusterschemas>
+    </clusterschemas>
+    <created_user>-</created_user>
+    <created_date>2017/06/26 08:17:44.653</created_date>
+    <modified_user>-</modified_user>
+    <modified_date>2017/06/26 08:17:44.653</modified_date>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
+    <is_key_private>N</is_key_private>
+  </info>
+  <notepads>
+  </notepads>
+  <order>
+    <hop>
+      <from>db</from>
+      <to>fila</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>fila</from>
+      <to>Row Normaliser</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Row Normaliser</from>
+      <to>Cabezal</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Cabezal</from>
+      <to>agg</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Group by</from>
+      <to>join</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>agg</from>
+      <to>join</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>join</from>
+      <to>corrijo_var</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>config</from>
+      <to>Group by</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>final</from>
+      <to>template</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>corrijo_var</from>
+      <to>log_repetidos</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>dimConfig</from>
+      <to>config</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>corrijo_var</from>
+      <to>año</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>año</from>
+      <to>Formula</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Formula</from>
+      <to>final</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>config 2</from>
+      <to>Memory Group by</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Memory Group by</from>
+      <to>join</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>add_hoja</from>
+      <to>out</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>final</from>
+      <to>Sample rows</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sample rows</from>
+      <to>add_hoja</to>
+      <enabled>Y</enabled>
+    </hop>
+  </order>
+  <step>
+    <name>Cabezal</name>
+    <type>FilterRows</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <send_true_to>agg</send_true_to>
+    <send_false_to />
+    <compare>
+      <condition>
+        <negated>N</negated>
+        <conditions>
+          <condition>
+            <negated>N</negated>
+            <leftvalue>Campo</leftvalue>
+            <function>IS NOT NULL</function>
+            <rightvalue />
+          </condition>
+          <condition>
+            <negated>N</negated>
+            <operator>AND</operator>
+            <leftvalue>fila</leftvalue>
+            <function>=</function>
+            <rightvalue />
+            <value>
+              <name>constant</name>
+              <type>Integer</type>
+              <text>1</text>
+              <length>-1</length>
+              <precision>0</precision>
+              <isnull>N</isnull>
+              <mask>####0;-####0</mask>
+            </value>
+          </condition>
+        </conditions>
+      </condition>
+    </compare>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>416</xloc>
+      <yloc>16</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Formula</name>
+    <type>Formula</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <formula>
+      <field_name>v_output_tot</field_name>
+      <formula_string>[v_output]&amp;"/"&amp;[Nombre archivo]&amp;"/"</formula_string>
+      <value_type>String</value_type>
+      <value_length>-1</value_length>
+      <value_precision>-1</value_precision>
+      <replace_field />
+    </formula>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>752</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Group by</name>
+    <type>GroupBy</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <all_rows>N</all_rows>
+    <ignore_aggregate>N</ignore_aggregate>
+    <field_ignore />
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>grp</prefix>
+    <add_linenr>N</add_linenr>
+    <linenr_fieldname />
+    <give_back_row>N</give_back_row>
+    <group>
+      <field>
+        <name>v_output</name>
+      </field>
+      <field>
+        <name>v_archivo</name>
+      </field>
+      <field>
+        <name>v_etiquetas_fijas</name>
+      </field>
+    </group>
+    <fields>
+      <field>
+        <aggregate>dimensiones_linea</aggregate>
+        <subject>cod_dimension</subject>
+        <type>CONCAT_STRING</type>
+        <valuefield>|</valuefield>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>304</xloc>
+      <yloc>112</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Memory Group by</name>
+    <type>MemoryGroupBy</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <give_back_row>N</give_back_row>
+    <group>
+      </group>
+    <fields>
+      <field>
+        <aggregate>varianteFiltro</aggregate>
+        <subject>varianteFiltro</subject>
+        <type>CONCAT_STRING</type>
+        <valuefield>;</valuefield>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>208</xloc>
+      <yloc>240</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Replace in string</name>
+    <type>ReplaceString</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>aux</in_stream_name>
+        <out_stream_name>templateBase</out_stream_name>
+        <use_regex>no</use_regex>
+        <replace_string>,</replace_string>
+        <replace_by_string>;</replace_by_string>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string />
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>1024</xloc>
+      <yloc>320</yloc>
+      <draw>N</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Row Normaliser</name>
+    <type>Normaliser</type>
+    <description />
+    <distribute>N</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <typefield>typefield</typefield>
+    <fields>
+      <field>
+        <name>Campo1</name>
+        <value>Campo1</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>campo2</name>
+        <value>campo2</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_1</name>
+        <value>Campo1_1</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_2</name>
+        <value>Campo1_2</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_3</name>
+        <value>Campo1_3</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_4</name>
+        <value>Campo1_4</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_5</name>
+        <value>Campo1_5</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_6</name>
+        <value>Campo1_6</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_7</name>
+        <value>Campo1_7</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_8</name>
+        <value>Campo1_8</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_9</name>
+        <value>Campo1_9</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_10</name>
+        <value>Campo1_10</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_11</name>
+        <value>Campo1_11</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_12</name>
+        <value>Campo1_12</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_13</name>
+        <value>Campo1_13</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_14</name>
+        <value>Campo1_14</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_15</name>
+        <value>Campo1_15</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_16</name>
+        <value>Campo1_16</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_17</name>
+        <value>Campo1_17</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_18</name>
+        <value>Campo1_18</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_19</name>
+        <value>Campo1_19</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_20</name>
+        <value>Campo1_20</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_21</name>
+        <value>Campo1_21</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_22</name>
+        <value>Campo1_22</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_23</name>
+        <value>Campo1_23</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_24</name>
+        <value>Campo1_24</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_25</name>
+        <value>Campo1_25</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_26</name>
+        <value>Campo1_26</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_27</name>
+        <value>Campo1_27</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_28</name>
+        <value>Campo1_28</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_29</name>
+        <value>Campo1_29</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_30</name>
+        <value>Campo1_30</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_31</name>
+        <value>Campo1_31</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_32</name>
+        <value>Campo1_32</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_33</name>
+        <value>Campo1_33</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_34</name>
+        <value>Campo1_34</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_35</name>
+        <value>Campo1_35</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_36</name>
+        <value>Campo1_36</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_37</name>
+        <value>Campo1_37</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_38</name>
+        <value>Campo1_38</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_39</name>
+        <value>Campo1_39</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_40</name>
+        <value>Campo1_40</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_41</name>
+        <value>Campo1_41</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_42</name>
+        <value>Campo1_42</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_43</name>
+        <value>Campo1_43</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_44</name>
+        <value>Campo1_44</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_45</name>
+        <value>Campo1_45</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_46</name>
+        <value>Campo1_46</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_47</name>
+        <value>Campo1_47</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_48</name>
+        <value>Campo1_48</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_49</name>
+        <value>Campo1_49</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_50</name>
+        <value>Campo1_50</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_51</name>
+        <value>Campo1_51</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_52</name>
+        <value>Campo1_52</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_53</name>
+        <value>Campo1_53</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_54</name>
+        <value>Campo1_54</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_55</name>
+        <value>Campo1_55</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_56</name>
+        <value>Campo1_56</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_57</name>
+        <value>Campo1_57</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_58</name>
+        <value>Campo1_58</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_59</name>
+        <value>Campo1_59</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_60</name>
+        <value>Campo1_60</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_61</name>
+        <value>Campo1_61</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_62</name>
+        <value>Campo1_62</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_63</name>
+        <value>Campo1_63</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_64</name>
+        <value>Campo1_64</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_65</name>
+        <value>Campo1_65</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_66</name>
+        <value>Campo1_66</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_67</name>
+        <value>Campo1_67</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_68</name>
+        <value>Campo1_68</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_69</name>
+        <value>Campo1_69</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_70</name>
+        <value>Campo1_70</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_71</name>
+        <value>Campo1_71</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_72</name>
+        <value>Campo1_72</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_73</name>
+        <value>Campo1_73</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_74</name>
+        <value>Campo1_74</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_75</name>
+        <value>Campo1_75</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_76</name>
+        <value>Campo1_76</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_77</name>
+        <value>Campo1_77</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_78</name>
+        <value>Campo1_78</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_79</name>
+        <value>Campo1_79</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_80</name>
+        <value>Campo1_80</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_81</name>
+        <value>Campo1_81</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_82</name>
+        <value>Campo1_82</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_83</name>
+        <value>Campo1_83</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_84</name>
+        <value>Campo1_84</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_85</name>
+        <value>Campo1_85</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_86</name>
+        <value>Campo1_86</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_87</name>
+        <value>Campo1_87</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_88</name>
+        <value>Campo1_88</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_89</name>
+        <value>Campo1_89</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_90</name>
+        <value>Campo1_90</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_91</name>
+        <value>Campo1_91</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_92</name>
+        <value>Campo1_92</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_93</name>
+        <value>Campo1_93</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_94</name>
+        <value>Campo1_94</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_95</name>
+        <value>Campo1_95</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_96</name>
+        <value>Campo1_96</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_97</name>
+        <value>Campo1_97</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_98</name>
+        <value>Campo1_98</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_99</name>
+        <value>Campo1_99</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_100</name>
+        <value>Campo1_100</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_101</name>
+        <value>Campo1_101</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_102</name>
+        <value>Campo1_102</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_103</name>
+        <value>Campo1_103</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_104</name>
+        <value>Campo1_104</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_105</name>
+        <value>Campo1_105</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_106</name>
+        <value>Campo1_106</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_107</name>
+        <value>Campo1_107</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_108</name>
+        <value>Campo1_108</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_109</name>
+        <value>Campo1_109</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_110</name>
+        <value>Campo1_110</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_111</name>
+        <value>Campo1_111</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_112</name>
+        <value>Campo1_112</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_113</name>
+        <value>Campo1_113</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_114</name>
+        <value>Campo1_114</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_115</name>
+        <value>Campo1_115</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_116</name>
+        <value>Campo1_116</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_117</name>
+        <value>Campo1_117</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_118</name>
+        <value>Campo1_118</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_119</name>
+        <value>Campo1_119</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_120</name>
+        <value>Campo1_120</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_121</name>
+        <value>Campo1_121</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_122</name>
+        <value>Campo1_122</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_123</name>
+        <value>Campo1_123</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_124</name>
+        <value>Campo1_124</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_125</name>
+        <value>Campo1_125</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_126</name>
+        <value>Campo1_126</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_127</name>
+        <value>Campo1_127</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_128</name>
+        <value>Campo1_128</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_129</name>
+        <value>Campo1_129</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_130</name>
+        <value>Campo1_130</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_131</name>
+        <value>Campo1_131</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_132</name>
+        <value>Campo1_132</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_133</name>
+        <value>Campo1_133</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_134</name>
+        <value>Campo1_134</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_135</name>
+        <value>Campo1_135</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_136</name>
+        <value>Campo1_136</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_137</name>
+        <value>Campo1_137</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_138</name>
+        <value>Campo1_138</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_139</name>
+        <value>Campo1_139</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_140</name>
+        <value>Campo1_140</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_141</name>
+        <value>Campo1_141</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_142</name>
+        <value>Campo1_142</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_143</name>
+        <value>Campo1_143</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_144</name>
+        <value>Campo1_144</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_145</name>
+        <value>Campo1_145</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_146</name>
+        <value>Campo1_146</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_147</name>
+        <value>Campo1_147</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_148</name>
+        <value>Campo1_148</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_149</name>
+        <value>Campo1_149</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_150</name>
+        <value>Campo1_150</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_151</name>
+        <value>Campo1_151</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_152</name>
+        <value>Campo1_152</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_153</name>
+        <value>Campo1_153</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_154</name>
+        <value>Campo1_154</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_155</name>
+        <value>Campo1_155</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_156</name>
+        <value>Campo1_156</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_157</name>
+        <value>Campo1_157</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_158</name>
+        <value>Campo1_158</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_159</name>
+        <value>Campo1_159</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_160</name>
+        <value>Campo1_160</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_161</name>
+        <value>Campo1_161</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_162</name>
+        <value>Campo1_162</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_163</name>
+        <value>Campo1_163</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_164</name>
+        <value>Campo1_164</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_165</name>
+        <value>Campo1_165</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_166</name>
+        <value>Campo1_166</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_167</name>
+        <value>Campo1_167</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_168</name>
+        <value>Campo1_168</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_169</name>
+        <value>Campo1_169</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_170</name>
+        <value>Campo1_170</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_171</name>
+        <value>Campo1_171</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_172</name>
+        <value>Campo1_172</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_173</name>
+        <value>Campo1_173</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_174</name>
+        <value>Campo1_174</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_175</name>
+        <value>Campo1_175</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_176</name>
+        <value>Campo1_176</value>
+        <norm>campo</norm>
+      </field>
+      <field>
+        <name>Campo1_177</name>
+        <value>Campo1_177</value>
+        <norm>campo</norm>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>304</xloc>
+      <yloc>16</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Sample rows</name>
+    <type>SampleRows</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <linesrange>1</linesrange>
+    <linenumfield />
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>912</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>add_hoja</name>
+    <type>ScriptValueMod</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <compatible>N</compatible>
+    <optimizationLevel>9</optimizationLevel>
+    <jsScripts>
+      <jsScript>
+        <jsScript_type>0</jsScript_type>
+        <jsScript_name>Script 1</jsScript_name>
+        <jsScript_script>
+var etiqueta = getVariable("cambioEtiqueta","?");
+
+var hoja= getVariable("nombreHoja","?")+','+templateBase;
+
+hoja = hoja.replace('Variable,Valor',etiqueta);
+
+var outFile =getVariable("p_output","?")+añoBase+'/'+getVariable("nombreBase","?")+añoBase;</jsScript_script>
+      </jsScript>
+    </jsScripts>
+    <fields>
+      <field>
+        <name>hoja</name>
+        <rename>hoja</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+      <field>
+        <name>outFile</name>
+        <rename>outFile</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>912</xloc>
+      <yloc>320</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>agg</name>
+    <type>GroupBy</type>
+    <description />
+    <distribute>N</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <all_rows>N</all_rows>
+    <ignore_aggregate>N</ignore_aggregate>
+    <field_ignore />
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>grp</prefix>
+    <add_linenr>N</add_linenr>
+    <linenr_fieldname />
+    <give_back_row>N</give_back_row>
+    <group>
+      <field>
+        <name>Nombre pestaña</name>
+      </field>
+      <field>
+        <name>Nombre archivo</name>
+      </field>
+    </group>
+    <fields>
+      <field>
+        <aggregate>campo</aggregate>
+        <subject>campo</subject>
+        <type>CONCAT_STRING</type>
+        <valuefield>|</valuefield>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>560</xloc>
+      <yloc>16</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>año</name>
+    <type>StringOperations</type>
+    <description />
+    <distribute>N</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>Nombre archivo</in_stream_name>
+        <out_stream_name />
+        <trim_type>none</trim_type>
+        <lower_upper>none</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char />
+        <pad_len />
+        <init_cap>no</init_cap>
+        <mask_xml>none</mask_xml>
+        <digits>digits_only</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>656</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>config</name>
+    <type>GetVariable</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <fields>
+      <field>
+        <name>v_output</name>
+        <variable>${p_output}</variable>
+        <type>String</type>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>v_archivo</name>
+        <variable>${p_directorio_input_db}${p_nombre_db}</variable>
+        <type>String</type>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>v_etiquetas_fijas</name>
+        <variable>${p_etiquetas_fijas}</variable>
+        <type>String</type>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>192</xloc>
+      <yloc>112</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>config 2</name>
+    <type>ExcelInput</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <header>Y</header>
+    <noempty>Y</noempty>
+    <stoponempty>N</stoponempty>
+    <filefield />
+    <sheetfield />
+    <sheetrownumfield />
+    <rownumfield />
+    <sheetfield />
+    <filefield />
+    <limit>0</limit>
+    <encoding />
+    <add_to_result_filenames>Y</add_to_result_filenames>
+    <accept_filenames>N</accept_filenames>
+    <accept_field />
+    <accept_stepname />
+    <file>
+      <name>${p_directorio_config}${p_config_archivo}</name>
+      <filemask />
+      <exclude_filemask />
+      <file_required>N</file_required>
+      <include_subfolders>N</include_subfolders>
+    </file>
+    <fields>
+      <field>
+        <name>varianteNombre</name>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>varianteFiltro</name>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+      </field>
+    </fields>
+    <sheets>
+      <sheet>
+        <name>Filtros</name>
+        <startrow>0</startrow>
+        <startcol>0</startcol>
+      </sheet>
+    </sheets>
+    <strict_types>N</strict_types>
+    <error_ignored>N</error_ignored>
+    <error_line_skipped>N</error_line_skipped>
+    <bad_line_files_destination_directory />
+    <bad_line_files_extension>warning</bad_line_files_extension>
+    <error_line_files_destination_directory />
+    <error_line_files_extension>error</error_line_files_extension>
+    <line_number_files_destination_directory />
+    <line_number_files_extension>line</line_number_files_extension>
+    <shortFileFieldName />
+    <pathFieldName />
+    <hiddenFieldName />
+    <lastModificationTimeFieldName />
+    <uriNameFieldName />
+    <rootUriNameFieldName />
+    <extensionFieldName />
+    <sizeFieldName />
+    <spreadsheet_type>POI</spreadsheet_type>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>64</xloc>
+      <yloc>240</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>corrijo_var</name>
+    <type>ScriptValueMod</type>
+    <description />
+    <distribute>N</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <compatible>N</compatible>
+    <optimizationLevel>9</optimizationLevel>
+    <jsScripts>
+      <jsScript>
+        <jsScript_type>0</jsScript_type>
+        <jsScript_name>Script 1</jsScript_name>
+        <jsScript_script>//Script here
+
+var aux= dimensiones_linea.split('|');
+var campos_dim_no_estan = dimensiones_linea;
+var campos_dm=campo.split('|')
+var campos_sdm=campo;
+var campos_dimensiones=[];
+var contador1=0;
+var contador2=0;
+var repetidos=[];
+
+for (i = 0; i &lt; aux.length; i++) { 
+
+if (campos_sdm.indexOf(aux[i]) !== -1)
+  {
+campos_dimensiones.push(aux[i]);
+campos_dim_no_estan=campos_dim_no_estan.replace(aux[i]+'|','');
+campos_dim_no_estan=campos_dim_no_estan.replace('|'+aux[i],'');
+}
+ campos_sdm=campos_sdm.replace(aux[i]+'|',''); 
+
+
+  
+}
+//contandor para iterar 
+var same=0;
+
+
+for (i = 0; i &lt; campos_dm.length; i++) { 
+same=0;
+for (j= 0; j &lt; campos_dm.length; j++) { 
+if(campos_dm[i]===campos_dm[j])
+{
+if(same===1)
+{
+campos_dm[i]=campos_dm[i]+'_'+contador1;
+contador1++;
+}
+same=1;
+}
+}
+}
+
+campos_sdm=campos_sdm.split('|');
+
+for (i = 0; i &lt; campos_sdm.length; i++) { 
+same=0;
+for (j= 0; j &lt; campos_sdm.length; j++) { 
+if(campos_sdm[i]===campos_sdm[j])
+{
+if(same===1)
+{
+repetidos.push(campos_sdm[i]);
+campos_sdm[i]=campos_sdm[i]+'_'+contador2;
+contador2++;
+}
+same=1;
+}
+}
+}
+
+
+
+//agrego los valores de metricas 
+aux.push(v_etiquetas_fijas);
+campos_dimensiones.push(v_etiquetas_fijas);
+var campos_dim_agregar = campos_dim_no_estan.split('|');
+var unique = repetidos.filter(function(elem, index, self) {
+    return index == self.indexOf(elem);
+})
+
+
+
+</jsScript_script>
+      </jsScript>
+    </jsScripts>
+    <fields>
+      <field>
+        <name>aux</name>
+        <rename>aux</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+      <field>
+        <name>campos_dm</name>
+        <rename>campos_dm</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+      <field>
+        <name>campos_sdm</name>
+        <rename>campos_sdm</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+      <field>
+        <name>campos_dimensiones</name>
+        <rename>campos_dimensiones</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+      <field>
+        <name>campos_dim_agregar</name>
+        <rename>campos_dim_agregar</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+      <field>
+        <name>unique</name>
+        <rename>unique</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>560</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>db</name>
+    <type>ExcelInput</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <header>N</header>
+    <noempty>Y</noempty>
+    <stoponempty>N</stoponempty>
+    <filefield>Archivo</filefield>
+    <sheetfield>Nombre pestaña</sheetfield>
+    <sheetrownumfield />
+    <rownumfield />
+    <sheetfield>Nombre pestaña</sheetfield>
+    <filefield>Archivo</filefield>
+    <limit>0</limit>
+    <encoding />
+    <add_to_result_filenames>Y</add_to_result_filenames>
+    <accept_filenames>N</accept_filenames>
+    <accept_field />
+    <accept_stepname />
+    <file>
+      <name>${p_directorio_input_db}${p_nombre_db}</name>
+      <filemask />
+      <exclude_filemask />
+      <file_required>N</file_required>
+      <include_subfolders>N</include_subfolders>
+    </file>
+    <fields>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>campo2</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>Campo1</name>
+        <type>None</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+    </fields>
+    <sheets>
+      <sheet>
+        <name />
+        <startrow>0</startrow>
+        <startcol>0</startcol>
+      </sheet>
+    </sheets>
+    <strict_types>N</strict_types>
+    <error_ignored>N</error_ignored>
+    <error_line_skipped>N</error_line_skipped>
+    <bad_line_files_destination_directory />
+    <bad_line_files_extension>warning</bad_line_files_extension>
+    <error_line_files_destination_directory />
+    <error_line_files_extension>error</error_line_files_extension>
+    <line_number_files_destination_directory />
+    <line_number_files_extension>line</line_number_files_extension>
+    <shortFileFieldName>Nombre archivo</shortFileFieldName>
+    <pathFieldName />
+    <hiddenFieldName />
+    <lastModificationTimeFieldName />
+    <uriNameFieldName />
+    <rootUriNameFieldName />
+    <extensionFieldName />
+    <sizeFieldName />
+    <spreadsheet_type>POI</spreadsheet_type>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>64</xloc>
+      <yloc>16</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>dimConfig</name>
+    <type>ExcelInput</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <header>Y</header>
+    <noempty>Y</noempty>
+    <stoponempty>N</stoponempty>
+    <filefield />
+    <sheetfield />
+    <sheetrownumfield />
+    <rownumfield />
+    <sheetfield />
+    <filefield />
+    <limit>0</limit>
+    <encoding />
+    <add_to_result_filenames>Y</add_to_result_filenames>
+    <accept_filenames>N</accept_filenames>
+    <accept_field />
+    <accept_stepname />
+    <file>
+      <name>${p_directorio_config}${p_config_archivo}</name>
+      <filemask />
+      <exclude_filemask />
+      <file_required>N</file_required>
+      <include_subfolders>N</include_subfolders>
+    </file>
+    <fields>
+      <field>
+        <name>desc_dimension</name>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+      </field>
+      <field>
+        <name>cod_dimension</name>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+        <format>#</format>
+        <currency />
+        <decimal />
+        <group />
+      </field>
+    </fields>
+    <sheets>
+      <sheet>
+        <name>dimensiones</name>
+        <startrow>0</startrow>
+        <startcol>0</startcol>
+      </sheet>
+    </sheets>
+    <strict_types>N</strict_types>
+    <error_ignored>N</error_ignored>
+    <error_line_skipped>N</error_line_skipped>
+    <bad_line_files_destination_directory />
+    <bad_line_files_extension>warning</bad_line_files_extension>
+    <error_line_files_destination_directory />
+    <error_line_files_extension>error</error_line_files_extension>
+    <line_number_files_destination_directory />
+    <line_number_files_extension>line</line_number_files_extension>
+    <shortFileFieldName />
+    <pathFieldName />
+    <hiddenFieldName />
+    <lastModificationTimeFieldName />
+    <uriNameFieldName />
+    <rootUriNameFieldName />
+    <extensionFieldName />
+    <sizeFieldName />
+    <spreadsheet_type>POI</spreadsheet_type>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>64</xloc>
+      <yloc>112</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>fila</name>
+    <type>FieldsChangeSequence</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <start>1</start>
+    <increment>1</increment>
+    <resultfieldName>fila</resultfieldName>
+    <fields>
+      <field>
+        <name>nombre pestaña</name>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>192</xloc>
+      <yloc>16</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>final</name>
+    <type>SelectValues</type>
+    <description />
+    <distribute>N</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <fields>
+      <field>
+        <name>v_output_tot</name>
+        <rename>v_output</rename>
+      </field>
+      <field>
+        <name>v_archivo</name>
+      </field>
+      <field>
+        <name>v_etiquetas_fijas</name>
+      </field>
+      <field>
+        <name>Nombre pestaña</name>
+      </field>
+      <field>
+        <name>campos_sdm</name>
+      </field>
+      <field>
+        <name>campos_dm</name>
+      </field>
+      <field>
+        <name>campos_dimensiones</name>
+      </field>
+      <field>
+        <name>campos_dim_agregar</name>
+      </field>
+      <field>
+        <name>aux</name>
+      </field>
+      <field>
+        <name>aux</name>
+        <rename>templateBase</rename>
+      </field>
+      <field>
+        <name>varianteFiltro</name>
+      </field>
+      <field>
+        <name>Nombre archivo</name>
+        <rename>añoBase</rename>
+      </field>
+      <select_unspecified>N</select_unspecified>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>816</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>join</name>
+    <type>JoinRows</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>out</prefix>
+    <cache_size>500</cache_size>
+    <main />
+    <compare>
+      <condition>
+        <negated>N</negated>
+        <leftvalue />
+        <function>=</function>
+        <rightvalue />
+      </condition>
+    </compare>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>560</xloc>
+      <yloc>112</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>log_repetidos</name>
+    <type>TextFileOutput</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <separator>|</separator>
+    <enclosure>"</enclosure>
+    <enclosure_forced>N</enclosure_forced>
+    <enclosure_fix_disabled>N</enclosure_fix_disabled>
+    <header>Y</header>
+    <footer>N</footer>
+    <format>DOS</format>
+    <compression>None</compression>
+    <encoding>UTF-8</encoding>
+    <endedLine />
+    <fileNameInField>N</fileNameInField>
+    <fileNameField />
+    <create_parent_folder>Y</create_parent_folder>
+    <file>
+      <name>${Internal.Entry.Current.Directory}/log/repetidos</name>
+      <is_command>N</is_command>
+      <servlet_output>N</servlet_output>
+      <do_not_open_new_file_init>N</do_not_open_new_file_init>
+      <extention>txt</extention>
+      <append>N</append>
+      <split>N</split>
+      <haspartno>N</haspartno>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <SpecifyFormat>Y</SpecifyFormat>
+      <date_time_format>yyyyMMddHHmmss</date_time_format>
+      <add_to_result_filenames>Y</add_to_result_filenames>
+      <pad>N</pad>
+      <fast_dump>N</fast_dump>
+      <splitevery>0</splitevery>
+    </file>
+    <fields>
+      <field>
+        <name>Nombre pestaña</name>
+        <type>String</type>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+        <nullif />
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>unique</name>
+        <type>String</type>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+        <nullif />
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>560</xloc>
+      <yloc>368</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>out</name>
+    <type>TextFileOutput</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <separator />
+    <enclosure />
+    <enclosure_forced>N</enclosure_forced>
+    <enclosure_fix_disabled>N</enclosure_fix_disabled>
+    <header>N</header>
+    <footer>N</footer>
+    <format>DOS</format>
+    <compression>None</compression>
+    <encoding>UTF-8</encoding>
+    <endedLine />
+    <fileNameInField>Y</fileNameInField>
+    <fileNameField>outFile</fileNameField>
+    <create_parent_folder>Y</create_parent_folder>
+    <file>
+      <name />
+      <is_command>N</is_command>
+      <servlet_output>N</servlet_output>
+      <do_not_open_new_file_init>Y</do_not_open_new_file_init>
+      <extention>csv</extention>
+      <append>N</append>
+      <split>N</split>
+      <haspartno>N</haspartno>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <SpecifyFormat>N</SpecifyFormat>
+      <date_time_format />
+      <add_to_result_filenames>Y</add_to_result_filenames>
+      <pad>N</pad>
+      <fast_dump>N</fast_dump>
+      <splitevery>0</splitevery>
+    </file>
+    <fields>
+      <field>
+        <name>hoja</name>
+        <type>String</type>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+        <nullif />
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+    </fields>
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>912</xloc>
+      <yloc>480</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>template</name>
+    <type>TransExecutor</type>
+    <description />
+    <distribute>Y</distribute>
+    <custom_distribution />
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name />
+    </partitioning>
+    <specification_method>filename</specification_method>
+    <trans_object_id />
+    <trans_name />
+    <filename>${Internal.Entry.Current.Directory}/ktx/01-csv-armoTemplate.ktr</filename>
+    <directory_path />
+    <group_size>1</group_size>
+    <group_field />
+    <group_time />
+    <parameters>
+      <variablemapping>
+        <variable>campo</variable>
+        <field>campos_dm</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>campos_sdd</variable>
+        <field>campos_sdm</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>sheet</variable>
+        <field>Nombre pestaña</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>p_archivo</variable>
+        <field>v_archivo</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>p_output</variable>
+        <field>v_output</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>campos_dim</variable>
+        <field>campos_dimensiones</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>p_etiquetas_fijas</variable>
+        <field>v_etiquetas_fijas</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>campos_dim_agregar</variable>
+        <field>campos_dim_agregar</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>cabezal_completo</variable>
+        <field>aux</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>varianteFiltro</variable>
+        <field>varianteFiltro</field>
+        <input />
+      </variablemapping>
+      <variablemapping>
+        <variable>nombreBase</variable>
+        <field />
+        <input>${nombreBase}</input>
+      </variablemapping>
+      <variablemapping>
+        <variable>nombreHoja</variable>
+        <field />
+        <input>${nombreHoja}</input>
+      </variablemapping>
+      <variablemapping>
+        <variable>añoBase</variable>
+        <field>añoBase</field>
+        <input />
+      </variablemapping>
+      <inherit_all_vars>Y</inherit_all_vars>
+    </parameters>
+    <execution_result_target_step />
+    <execution_time_field>ExecutionTime</execution_time_field>
+    <execution_result_field>ExecutionResult</execution_result_field>
+    <execution_errors_field>ExecutionNrErrors</execution_errors_field>
+    <execution_lines_read_field>ExecutionLinesRead</execution_lines_read_field>
+    <execution_lines_written_field>ExecutionLinesWritten</execution_lines_written_field>
+    <execution_lines_input_field>ExecutionLinesInput</execution_lines_input_field>
+    <execution_lines_output_field>ExecutionLinesOutput</execution_lines_output_field>
+    <execution_lines_rejected_field>ExecutionLinesRejected</execution_lines_rejected_field>
+    <execution_lines_updated_field>ExecutionLinesUpdated</execution_lines_updated_field>
+    <execution_lines_deleted_field>ExecutionLinesDeleted</execution_lines_deleted_field>
+    <execution_files_retrieved_field>ExecutionFilesRetrieved</execution_files_retrieved_field>
+    <execution_exit_status_field>ExecutionExitStatus</execution_exit_status_field>
+    <execution_log_text_field>ExecutionLogText</execution_log_text_field>
+    <execution_log_channelid_field>ExecutionLogChannelId</execution_log_channelid_field>
+    <result_rows_target_step />
+    <result_files_target_step />
+    <result_files_file_name_field>FileName</result_files_file_name_field>
+    <executors_output_step />
+    <cluster_schema />
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>816</xloc>
+      <yloc>368</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step_error_handling>
+  </step_error_handling>
+  <slave-step-copy-partition-distribution>
+  </slave-step-copy-partition-distribution>
+  <slave_transformation>N</slave_transformation>
+</transformation>

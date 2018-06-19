@@ -1,0 +1,15 @@
+Nombre pestaña|unique
+Aduana Mvd|VAR
+Adolescentes Mvd|VAR
+Famesp Mvd|AUDPREL,VAR
+Penal y Crimen Mvd|VAR
+Ejecución Mvd|VAR
+Faltas Mvd|VAR
+CGP Capital|VAR
+CGP Int|VAR,AUDPREL
+PAA Int|VAR
+Multimateria Int|VAR,AUDPREL
+Paz Int|VAR
+Tribunal Penal|VAR
+Tribunales Civ-Trab-Flia|VAR
+SCJ|

@@ -1,0 +1,3 @@
+Variable;Cantidad
+EJESEN   ;13
+PRESCS   ;35

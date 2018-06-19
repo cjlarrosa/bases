@@ -1,0 +1,1743 @@
+Cod_sede,Depto,Ciudad,CG,Sede,Juez,comunidad con,Oficina,Categ,Turno,Secc,Comp,Variable,Valor
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR_ANT,237
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR,193
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SUMTR_ANT,190
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SUMTR,87
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,CUMTR_ANT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,CUMTR,35
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRPE,88
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INDTR_ANT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INFRTR_ANT,3
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INFRTR,3
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRADOL,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,ADUATR_ANT,2
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,ADUATR,4
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN_ANT,158
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN,167
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ_ANT,32
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ,21
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIPEN_ANT,190
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIPEN,188
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL_ANT,4
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL,8
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ_ANT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIADOL_ANT,4
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIADOL,8
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIADUA_ANT,1
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIADUA,2
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICIV_ANT,59
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICIV,128
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIFAM_ANT,215
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIFAM,219
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AILAB_ANT,31
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AILAB,43
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICONT_ANT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICONT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICONC_ANT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICONC,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESINI,129
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SUMINICPRE,2
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SUMINISPRE,36
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SUMINI_ANT,47
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SUMINI,38
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIPEN2,165
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICHEQPEN,-23
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INFRINICIND,8
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INFRINISIND,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INFRINI_ANT,4
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INFRINI,8
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AARCHPEN,199
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AARCHADOL,6
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AREMTPEN,12
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AREMTADOL,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AREMTADUA,1
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN_ANT,33
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN,29
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL_ANT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL,6
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADU,1
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV_ANT,6
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV,46
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM_ANT,35
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM,35
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB_ANT,11
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB,15
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONC,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXREC,124
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXCUM,115
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PROVPRES,1117
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PROVSUM,194
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PROVADOL,17
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PROV,3690
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,OFILIB,3054
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,DILALGUA,146
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,COMDNA,3
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS_ANT,21
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS,28
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS_ANT,1
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS,2
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,ADOLCSENT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,ADOLSSENT,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN_ANT,1
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN,3
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INIMP,2
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PROFUG,3
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,DENPOLVD,17
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIOTRJDOVD,10
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIBARVD,40
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIVD_ANT,57
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AIVD,67
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AREPEVD,4
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL_21,67
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDEVAL,63
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_VD,52
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AARCHVD,1424
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICNA_ANT,51
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AICNA,82
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,ARLDOCNA,4
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_CNA,112
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AI18895,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEF18895,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INIORDA,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INIJDO,393
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,INISD,121
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AITOT_ANT,475
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AITOT,514
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDR,587
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEF_ANT,52
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENDEF,96
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,SENINT,14
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,PROVOTR,3676
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,OFILIB_SGJ,1797
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXREC_SGJ,81
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AARCH,1424
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,CEDULON,644
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_31/12/2016,924
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,ADUCON,778
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDR_ANT,380
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDR,585
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDS,193
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDNOT,512
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDTTOT,2
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDTPAR,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDPRO,71
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL,75
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDCOMP,31
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDUNI,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDVOL,0
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDLECT,49
+424,2,Bella Unión,-1,-1,1,-1,-1,1,1,-1,14,AUDOTR,430
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR_ANT,231
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR,198
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SUMTR_ANT,163
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SUMTR,90
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,CUMTR_ANT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,CUMTR,27
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRPE,84
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INDTR_ANT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INFRTR_ANT,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INFRTR,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRADOL,1
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,ADUATR_ANT,2
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,ADUATR,9
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN_ANT,167
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN,162
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ_ANT,38
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ,26
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIPEN_ANT,205
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIPEN,188
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL_ANT,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL,6
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ_ANT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIADOL_ANT,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIADOL,6
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIADUA_ANT,2
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIADUA,2
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICIV_ANT,57
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICIV,30
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIFAM_ANT,219
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIFAM,231
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AILAB_ANT,22
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AILAB,37
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICONT_ANT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICONT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICONC_ANT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICONC,1
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESINI,129
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SUMINICPRE,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SUMINISPRE,33
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SUMINI_ANT,38
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SUMINI,33
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIPEN2,162
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICHEQPEN,-26
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INFRINICIND,6
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INFRINISIND,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INFRINI_ANT,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INFRINI,6
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AARCHPEN,189
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AARCHADOL,4
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AREMTPEN,5
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AREMTADOL,2
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AREMTADUA,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN_ANT,29
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN,47
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL_ANT,2
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADU,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV_ANT,6
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV,28
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM_ANT,43
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM,33
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB_ANT,4
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB,10
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONC,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXREC,129
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXCUM,123
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PROVPRES,1243
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PROVSUM,723
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PROVADOL,49
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PROV,3307
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,OFILIB,2495
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,DILALGUA,100
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,COMDNA,2
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS_ANT,22
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS,22
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS_ANT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS,4
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,ADOLCSENT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,ADOLSSENT,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN_ANT,4
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INIMP,1
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PROFUG,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,DENPOLVD,20
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIOTRJDOVD,13
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIBARVD,27
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIVD_ANT,79
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AIVD,60
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AREPEVD,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL_21,60
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDEVAL,52
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_VD,80
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AARCHVD,964
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICNA_ANT,66
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AICNA,66
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,ARLDOCNA,3
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_CNA,140
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AI18895,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEF18895,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INIORDA,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INIJDO,389
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,INISD,140
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AITOT_ANT,493
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AITOT,529
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDR,464
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEF_ANT,53
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENDEF,73
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,SENINT,110
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,PROVOTR,3197
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,OFILIB_SGJ,1426
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXREC_SGJ,96
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AARCH,964
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,CEDULON,594
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_31/12/2016,646
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,ADUCON,558
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDR_ANT,384
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDR,464
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDS,94
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDNOT,393
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDTTOT,22
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDTPAR,4
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDPRO,45
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL,169
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDCOMP,74
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDUNI,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDVOL,0
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDLECT,53
+444,2,Bella Unión,-1,-1,1,-1,-1,1,2,-1,14,AUDOTR,168
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESUMTR_ANT,176
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESUMTR,158
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SUMTR,93
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,CUMTR,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXPEJECTRPE,16
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,CUMSENT,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INDTR,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INFRTR,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXPEJECTRADOL,6
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIJDOPEN,166
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIPENPAZ,77
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIPEN_ANT,251
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIPEN,243
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIJDOADOL_ANT,7
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIJDOADOL,3
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIADOLPAZ_ANT,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIADOLPAZ,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIADOL_ANT,7
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIADOL,4
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIADUA_ANT,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AICIV_ANT,58
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AICIV,28
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIFAM_ANT,469
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIFAM,592
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AILAB,99
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AICONT,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AICONC,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESINI,191
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SUMINICPRE,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SUMINISPRE,44
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SUMINI_ANT,44
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SUMINI,45
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIPEN2,235
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AICHEQPEN,-8
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,CUMINI,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INDINI,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INFRINICIND,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INFRINISIND,4
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INFRINI_ANT,7
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INFRINI,4
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AARCHPEN,208
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AARCHADOL,6
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AREMTPEN,7
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AREMTADOL,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFPEN_ANT,15
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFPEN,48
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFADOL_ANT,2
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFADOL,3
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCIV_ANT,7
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCIV,3
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFFAM_ANT,48
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFFAM,117
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFLAB_ANT,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFLAB,4
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCONT,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCONC,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXREC,62
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXCUM,56
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PROVPRES,593
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PROVSUM,698
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PROVADOL,78
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PROV,6386
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,OFILIB,1444
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,DILALGUA,5
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESOSS_ANT,42
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESOSS,36
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESOCS_ANT,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESOCS,11
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,ADOLCSENT,3
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,ADOLSSENT,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESOPEN_ANT,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PRESOPEN,2
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PENLIB,18
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INIMP,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PROFUG,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,DENPOLVD,211
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIOTRJDOVD,40
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIBARVD,8
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIVD_ANT,323
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AIVD,259
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AREPEVD,3
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDPREL_21,79
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDEVAL,6
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXPTR_VD,81
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AICNA_ANT,77
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AICNA,125
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,ARLDOCNA,0
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXPTR_CNA,83
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AI18895,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEF18895,1
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INIORDA,9
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INIJDO,793
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,INISD,467
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AITOT_ANT,1117
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AITOT,1269
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDR,748
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEF_ANT,55
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENDEF,124
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,SENINT,532
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,PROVOTR,5851
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,OFILIB_SGJ,3755
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXREC_SGJ,316
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AARCH,829
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,CEDULON,574
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,EXPTR_31/12/2016,943
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,ADUCON,1156
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDR_ANT,443
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDR,748
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDS,408
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDNOT,664
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDTTOT,9
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDTPAR,3
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDPRO,72
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDPREL,84
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDCOMP,30
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDUNI,163
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDVOL,65
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDLECT,94
+534,3,Toledo,-1,-1,1,-1,-1,1,0,-1,14,AUDOTR,312
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESUMTR_ANT,180
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESUMTR,192
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SUMTR,124
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,CUMTR,32
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXPEJECTRPE,320
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,CUMSENT,28
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INDTR,19
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INFRTR,14
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXPEJECTRADOL,3
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,ADUATR,31
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIJDOPEN,209
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIPENPAZ,10
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIPEN_ANT,162
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIPEN,219
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIJDOADOL_ANT,16
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIJDOADOL,19
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIADOLPAZ_ANT,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIADOLPAZ,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIADOL_ANT,16
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIADOL,19
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIADUA_ANT,7
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIADUA,31
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICIV_ANT,88
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICIV,107
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIFAM_ANT,139
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIFAM,156
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AILAB_ANT,60
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AILAB,50
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICONT_ANT,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICONT,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICONC_ANT,1
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICONC,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESINI,115
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SUMINICPRE,8
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SUMINISPRE,56
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SUMINI_ANT,39
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SUMINI,64
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIPEN2,171
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICHEQPEN,-48
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,CUMINI,10
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INDINI,13
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INFRINICIND,2
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INFRINISIND,10
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INFRINI_ANT,12
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INFRINI,12
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AARCHPEN,61
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AARCHADOL,10
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AACNA,105
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AARCHADUA,6
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AREMTPEN,17
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AREMTADOL,1
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AREMTADUA,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFPEN_ANT,47
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFPEN,49
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFADOL_ANT,9
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFADOL,8
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFADU,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCIV_ANT,16
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCIV,10
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFFAM_ANT,96
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFFAM,84
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFLAB_ANT,26
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFLAB,28
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCONT,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEFCONC,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXREC,185
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXCUM,167
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PROVPRES,886
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PROVSUM,1075
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PROVADOL,198
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PROV,4879
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,OFILIB,1400
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,DILALGUA,228
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,COMDNA,24
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESOSS_ANT,46
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESOSS,38
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESOCS_ANT,5
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESOCS,3
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,ADOLCSENT,2
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,ADOLSSENT,1
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESOPEN_ANT,6
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PRESOPEN,9
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PENLIB,280
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INIMP,1
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PROFUG,2
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,DENPOLVD,58
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIOTRJDOVD,6
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIBARVD,3
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIVD_ANT,67
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AIVD,67
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AREPEVD,1
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDPREL_21,56
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDEVAL,48
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXPTR_VD,66
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AARCHVD,21
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICNA_ANT,210
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AICNA,198
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,ARLDOCNA,3
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXPTR_CNA,290
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AI18895,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEF18895,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INIORDA,0
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INIJDO,561
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,INISD,210
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AITOT_ANT,707
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AITOT,771
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDR,798
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEF_ANT,138
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENDEF,122
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,SENINT,338
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,PROVOTR,4542
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,OFILIB_SGJ,1398
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXREC_SGJ,185
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AARCH,472
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,CEDULON,635
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,EXPTR_31/12/2016,695
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,ADUCON,871
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDR_ANT,720
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDR,798
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDS,73
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDNOT,572
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDTTOT,32
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDTPAR,1
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDPRO,193
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDPREL,240
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDCOMP,101
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDUNI,49
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDVOL,105
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDLECT,114
+489,4,Río Branco,-1,-1,1,-1,-1,1,0,-1,14,AUDOTR,189
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR_ANT,347
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR,406
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SUMTR_ANT,169
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SUMTR,192
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,CUMTR_ANT,58
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,CUMTR,38
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRPE,279
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,CUMSENT,42
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INDTR_ANT,11
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INDTR,7
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INFRTR_ANT,3
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INFRTR,4
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRADOL,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,ADUATR_ANT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,ADUATR,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN_ANT,275
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN,239
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ_ANT,22
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ,33
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIPEN_ANT,297
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIPEN,272
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL_ANT,17
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL,6
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ_ANT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIADOL_ANT,17
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIADOL,6
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIADUA_ANT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIADUA,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICIV_ANT,39
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICIV,36
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIFAM_ANT,253
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIFAM,277
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AILAB_ANT,44
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AILAB,53
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICONT_ANT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICONT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICONC_ANT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICONC,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESINI,278
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SUMINICPRE,3
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SUMINISPRE,60
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SUMINI_ANT,67
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SUMINI,63
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIPEN2,338
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICHEQPEN,66
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,CUMINI,14
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INDINI,6
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INFRINICIND,1
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INFRINISIND,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INFRINI_ANT,10
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INFRINI,1
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AARCHPEN,307
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AARCHADOL,12
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AACNA,64
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AARCHADUA,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AREMTPEN,12
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AREMTADOL,1
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AREMTADUA,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN_ANT,51
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN,50
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL_ANT,5
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL,4
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADU,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV_ANT,9
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV,14
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM_ANT,45
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM,53
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB_ANT,8
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB,12
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONC,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXREC,280
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXCUM,237
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PROVPRES,486
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PROVSUM,959
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PROVADOL,39
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PROV,4488
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,OFILIB,3767
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,DILALGUA,190
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,COMDNA,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS_ANT,51
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS,69
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS_ANT,7
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS,6
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,ADOLCSENT,1
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,ADOLSSENT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN_ANT,10
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN,9
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PENLIB,2
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INIMP,3
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PROFUG,43
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,DENPOLVD,52
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIOTRJDOVD,7
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIBARVD,6
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIVD_ANT,57
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AIVD,65
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AREPEVD,2
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL_21,57
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDEVAL,21
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_VD,74
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AARCHVD,111
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICNA_ANT,73
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AICNA,56
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,ARLDOCNA,6
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_CNA,187
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AI18895,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEF18895,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INIORDA,1
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INIJDO,447
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,INISD,290
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AITOT_ANT,703
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AITOT,738
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDR,768
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEF_ANT,58
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENDEF,78
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,SENINT,9
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,PROVOTR,4478
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,OFILIB_SGJ,1795
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXREC_SGJ,212
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AARCH,713
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,CEDULON,455
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_31/12/2016,2807
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,ADUCON,813
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDR_ANT,717
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDR,768
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDS,45
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDNOT,768
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDTTOT,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDTPAR,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDPRO,0
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL,222
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDCOMP,130
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDUNI,119
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDVOL,60
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDLECT,91
+503,10,San Carlos,-1,-1,1,-1,-1,1,1,-1,14,AUDOTR,146
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR_ANT,325
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR,431
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SUMTR_ANT,167
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SUMTR,161
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,CUMTR_ANT,14
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,CUMTR,11
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRPE,167
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,CUMSENT,26
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INDTR_ANT,14
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INDTR,9
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INFRTR_ANT,3
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INFRTR,9
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRADOL,1
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,ADUATR_ANT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,ADUATR,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN_ANT,301
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN,199
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ_ANT,17
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ,34
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIPEN_ANT,318
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIPEN,233
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL_ANT,15
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL,11
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ_ANT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ,1
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIADOL_ANT,15
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIADOL,12
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIADUA_ANT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIADUA,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICIV_ANT,31
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICIV,40
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIFAM_ANT,271
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIFAM,290
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AILAB_ANT,50
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AILAB,47
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICONT_ANT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICONT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICONC_ANT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICONC,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESINI,227
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SUMINICPRE,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SUMINISPRE,69
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SUMINI_ANT,75
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SUMINI,69
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIPEN2,296
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICHEQPEN,63
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,CUMINI,5
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INDINI,4
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INFRINICIND,7
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INFRINISIND,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INFRINI_ANT,7
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INFRINI,7
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AARCHPEN,361
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AARCHADOL,16
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AACNA,85
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AARCHADUA,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AREMTPEN,7
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AREMTADOL,4
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AREMTADUA,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN_ANT,52
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN,59
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL_ANT,5
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL,6
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADU,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV_ANT,8
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV,8
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM_ANT,42
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM,76
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB_ANT,5
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB,15
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONC,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXREC,350
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXCUM,305
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PROVPRES,959
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PROVSUM,923
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PROVADOL,60
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PROV,4083
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,OFILIB,3894
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,DILALGUA,157
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,COMDNA,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS_ANT,47
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS,63
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS_ANT,5
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS,2
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,ADOLCSENT,2
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,ADOLSSENT,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN_ANT,1
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN,4
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PENLIB,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INIMP,1
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PROFUG,10
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,DENPOLVD,38
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIOTRJDOVD,14
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIBARVD,7
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIVD_ANT,76
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AIVD,59
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AREPEVD,1
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL_21,9
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDEVAL,21
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_VD,43
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AARCHVD,109
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICNA_ANT,78
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AICNA,59
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,ARLDOCNA,7
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_CNA,144
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AI18895,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEF18895,0
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INIORDA,1
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INIJDO,463
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,INISD,356
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AITOT_ANT,764
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AITOT,820
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDR,561
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEF_ANT,55
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENDEF,99
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,SENINT,113
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,PROVOTR,3968
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,OFILIB_SGJ,1499
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXREC_SGJ,288
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AARCH,719
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,CEDULON,508
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_31/12/2016,2388
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,ADUCON,680
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDR_ANT,409
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDR,561
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDS,119
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDNOT,464
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDTTOT,28
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDTPAR,10
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDPRO,59
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL,195
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDCOMP,119
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDUNI,10
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDVOL,86
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDLECT,69
+505,10,San Carlos,-1,-1,1,-1,-1,1,2,-1,14,AUDOTR,82
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR_ANT,50
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR,49
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SUMTR_ANT,124
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SUMTR,47
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,CUMTR_ANT,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,CUMTR,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRPE,91
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,CUMSENT,7
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INDTR_ANT,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INDTR,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INFRTR_ANT,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INFRTR,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRADOL,8
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,ADUATR_ANT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,ADUATR,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN_ANT,105
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN,74
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ_ANT,17
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ,15
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIPEN_ANT,122
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIPEN,89
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL_ANT,8
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ_ANT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIADOL_ANT,8
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIADOL,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIADUA_ANT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIADUA,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICIV_ANT,99
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICIV,69
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIFAM_ANT,148
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIFAM,293
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AILAB_ANT,46
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AILAB,44
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICONT_ANT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICONT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICONC_ANT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICONC,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESINI,72
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SUMINICPRE,8
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SUMINISPRE,17
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SUMINI_ANT,24
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SUMINI,25
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIPEN2,89
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICHEQPEN,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,CUMINI,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INDINI,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INFRINICIND,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INFRINISIND,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INFRINI_ANT,8
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INFRINI,4
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AARCHPEN,79
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AARCHADOL,3
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AACNA,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AARCHADUA,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AREMTPEN,7
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AREMTADOL,1
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AREMTADUA,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN_ANT,22
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN,35
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL_ANT,8
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL,6
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADU,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV_ANT,10
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV,12
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM_ANT,33
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM,44
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB_ANT,14
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB,14
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONC,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXREC,96
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXCUM,86
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PROVPRES,631
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PROVSUM,560
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PROVADOL,60
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PROV,2739
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,OFILIB,1948
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,DILALGUA,178
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,COMDNA,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS_ANT,18
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS,11
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS_ANT,3
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS,7
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,ADOLCSENT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,ADOLSSENT,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN_ANT,7
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN,9
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PENLIB,75
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INIMP,2
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PROFUG,18
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,DENPOLVD,20
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIOTRJDOVD,8
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIBARVD,16
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIVD_ANT,73
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AIVD,44
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AREPEVD,2
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL_21,58
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDEVAL,36
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_VD,21
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AARCHVD,30
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICNA_ANT,28
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AICNA,29
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,ARLDOCNA,1
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_CNA,18
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AI18895,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEF18895,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INIORDA,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INIJDO,310
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,INISD,146
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AITOT_ANT,500
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AITOT,456
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDR,344
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEF_ANT,57
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENDEF,70
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,SENINT,57
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,PROVOTR,2766
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,OFILIB_SGJ,1186
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXREC_SGJ,96
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AARCH,582
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,CEDULON,468
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_31/12/2016,489
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,ADUCON,421
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDR_ANT,380
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDR,344
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDS,77
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDNOT,272
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDTTOT,19
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDTPAR,0
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDPRO,53
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL,83
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDCOMP,78
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDUNI,55
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDVOL,59
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDLECT,62
+426,12,Young,-1,-1,1,-1,-1,1,1,-1,14,AUDOTR,7
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR_ANT,70
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR,149
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SUMTR_ANT,103
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SUMTR,41
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,CUMTR_ANT,1
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,CUMTR,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRPE,60
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,CUMSENT,8
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INDTR_ANT,10
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INDTR,12
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INFRTR_ANT,9
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INFRTR,12
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRADOL,11
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,ADUATR_ANT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,ADUATR,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN_ANT,104
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN,71
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ_ANT,12
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ,7
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIPEN_ANT,116
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIPEN,78
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL_ANT,11
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL,13
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ_ANT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIADOL_ANT,11
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIADOL,13
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIADUA_ANT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIADUA,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICIV_ANT,180
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICIV,87
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIFAM_ANT,124
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIFAM,291
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AILAB_ANT,40
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AILAB,43
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICONT_ANT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICONT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICONC_ANT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICONC,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESINI,58
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SUMINICPRE,12
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SUMINISPRE,15
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SUMINI_ANT,21
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SUMINI,27
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIPEN2,73
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICHEQPEN,-5
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,CUMINI,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INDINI,13
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INFRINICIND,13
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INFRINISIND,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INFRINI_ANT,11
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INFRINI,13
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AARCHPEN,24
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AARCHADOL,10
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AACNA,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AARCHADUA,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AREMTPEN,3
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AREMTADOL,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AREMTADUA,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN_ANT,19
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN,24
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL_ANT,12
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL,10
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADU,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV_ANT,7
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV,6
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM_ANT,26
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM,42
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB_ANT,11
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB,17
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONC,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXREC,116
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXCUM,104
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PROVPRES,483
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PROVSUM,520
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PROVADOL,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PROV,2699
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,OFILIB,1923
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,DILALGUA,132
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,COMDNA,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS_ANT,20
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS,13
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS_ANT,2
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS,4
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,ADOLCSENT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,ADOLSSENT,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN_ANT,2
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN,3
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PENLIB,57
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INIMP,1
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PROFUG,3
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,DENPOLVD,86
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIOTRJDOVD,11
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIBARVD,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIVD_ANT,77
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AIVD,97
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AREPEVD,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL_21,73
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDEVAL,48
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_VD,68
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AARCHVD,39
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICNA_ANT,25
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AICNA,44
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,ARLDOCNA,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_CNA,32
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AI18895,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEF18895,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INIORDA,0
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INIJDO,371
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,INISD,149
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AITOT_ANT,465
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AITOT,520
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDR,393
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEF_ANT,44
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENDEF,65
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,SENINT,87
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,PROVOTR,2731
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,OFILIB_SGJ,1119
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXREC_SGJ,114
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AARCH,447
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,CEDULON,380
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_31/12/2016,334
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,ADUCON,442
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDR_ANT,416
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDR,393
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDS,49
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDNOT,361
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDTTOT,19
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDTPAR,1
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDPRO,12
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL,66
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDCOMP,95
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDUNI,45
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDVOL,57
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDLECT,33
+445,12,Young,-1,-1,1,-1,-1,1,2,-1,14,AUDOTR,97
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR_ANT,761
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR,125
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SUMTR_ANT,155
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SUMTR,158
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,CUMTR_ANT,13
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,CUMTR,8
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRPE,125
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,CUMSENT,30
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INDTR_ANT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INDTR,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INFRTR_ANT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INFRTR,3
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRADOL,1
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,ADUATR_ANT,18
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,ADUATR,18
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN_ANT,357
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN,337
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ_ANT,18
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ,28
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIPEN_ANT,375
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIPEN,365
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL_ANT,2
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL,3
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ_ANT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIADOL_ANT,2
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIADOL,3
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIADUA_ANT,15
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIADUA,8
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICIV_ANT,25
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICIV,15
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIFAM_ANT,201
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIFAM,243
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AILAB_ANT,25
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AILAB,22
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICONT_ANT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICONT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICONC_ANT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICONC,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESINI,125
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SUMINICPRE,45
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SUMINISPRE,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SUMINI_ANT,59
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SUMINI,45
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIPEN2,125
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICHEQPEN,-240
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,CUMINI,30
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INDINI,3
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INFRINICIND,3
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INFRINISIND,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INFRINI_ANT,1
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INFRINI,3
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AARCHPEN,348
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AARCHADOL,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AACNA,24
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AARCHADUA,2
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AREMTPEN,1
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AREMTADOL,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AREMTADUA,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN_ANT,45
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN,41
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL_ANT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL,3
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADU,1
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV_ANT,6
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV,10
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM_ANT,45
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM,50
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB_ANT,10
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB,6
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONT,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONC,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXREC,119
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXCUM,114
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PROVPRES,1948
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PROVSUM,1043
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PROVADOL,25
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PROV,3785
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,OFILIB,3084
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,DILALGUA,123
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,COMDNA,4
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS_ANT,23
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS,15
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS_ANT,9
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS,6
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,ADOLCSENT,1
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,ADOLSSENT,1
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN_ANT,6
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN,8
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PENLIB,117
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INIMP,1
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PROFUG,28
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,DENPOLVD,74
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIOTRJDOVD,6
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIBARVD,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIVD_ANT,65
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AIVD,80
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AREPEVD,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL_21,55
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDEVAL,72
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_VD,26
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AARCHVD,89
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICNA_ANT,26
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AICNA,32
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,ARLDOCNA,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_CNA,64
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AI18895,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEF18895,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INIORDA,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INIJDO,385
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,INISD,99
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AITOT_ANT,425
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AITOT,484
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDR,496
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEF_ANT,61
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENDEF,66
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,SENINT,32
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,PROVOTR,3753
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,OFILIB_SGJ,1328
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXREC_SGJ,75
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AARCH,404
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,CEDULON,522
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_31/12/2016,732
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,ADUCON,681
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDR_ANT,466
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDR,496
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDS,185
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDNOT,461
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDTTOT,23
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDTPAR,7
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDPRO,5
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL,228
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDCOMP,205
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDUNI,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDVOL,0
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDLECT,50
+427,14,Chuy,-1,-1,1,-1,-1,1,1,-1,14,AUDOTR,13
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR_ANT,282
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR,256
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SUMTR_ANT,115
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SUMTR,155
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,CUMTR_ANT,10
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,CUMTR,3
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRPE,83
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,CUMSENT,11
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INDTR_ANT,6
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INDTR,1
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INFRTR_ANT,4
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INFRTR,1
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRADOL,1
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,ADUATR_ANT,18
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,ADUATR,27
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN_ANT,309
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN,394
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ_ANT,10
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ,14
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIPEN_ANT,319
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIPEN,408
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL_ANT,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ_ANT,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIADOL_ANT,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIADOL,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIADUA_ANT,7
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIADUA,14
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICIV_ANT,29
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICIV,336
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIFAM_ANT,184
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIFAM,190
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AILAB_ANT,32
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AILAB,21
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICONT_ANT,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICONT,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICONC_ANT,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICONC,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESINI,298
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SUMINICPRE,79
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SUMINISPRE,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SUMINI_ANT,50
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SUMINI,79
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIPEN2,298
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICHEQPEN,-110
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,CUMINI,4
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INDINI,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INFRINICIND,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INFRINISIND,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INFRINI_ANT,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INFRINI,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AARCHPEN,266
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AARCHADOL,1
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AACNA,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AARCHADUA,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AREMTPEN,12
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AREMTADOL,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AREMTADUA,1
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN_ANT,30
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN,59
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL_ANT,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADU,4
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV_ANT,6
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV,7
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM_ANT,44
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM,57
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB_ANT,9
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB,15
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONT,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONC,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXREC,93
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXCUM,89
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PROVPRES,2005
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PROVSUM,1068
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PROVADOL,32
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PROV,3390
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,OFILIB,3405
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,DILALGUA,124
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,COMDNA,3
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS_ANT,18
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS,15
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS_ANT,9
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS,6
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,ADOLCSENT,1
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,ADOLSSENT,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN_ANT,3
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN,6
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PENLIB,77
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INIMP,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PROFUG,8
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,DENPOLVD,31
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIOTRJDOVD,3
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIBARVD,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIVD_ANT,67
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AIVD,34
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AREPEVD,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL_21,22
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDEVAL,22
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_VD,7
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AARCHVD,35
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICNA_ANT,34
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AICNA,42
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,ARLDOCNA,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_CNA,76
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AI18895,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEF18895,0
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INIORDA,1
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INIJDO,335
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,INISD,98
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AITOT_ANT,452
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AITOT,434
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDR,379
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEF_ANT,59
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENDEF,78
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,SENINT,134
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,PROVOTR,3256
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,OFILIB_SGJ,1269
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXREC_SGJ,68
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AARCH,411
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,CEDULON,372
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_31/12/2016,417
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,ADUCON,436
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDR_ANT,442
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDR,379
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDS,57
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDNOT,342
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDTTOT,17
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDTPAR,2
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDPRO,18
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL,94
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDCOMP,52
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDUNI,23
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDVOL,50
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDLECT,21
+448,14,Chuy,-1,-1,1,-1,-1,1,2,-1,14,AUDOTR,139
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR_ANT,103
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR,91
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SUMTR_ANT,60
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SUMTR,57
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,CUMTR_ANT,14
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,CUMTR,14
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRPE,107
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,CUMSENT,27
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INDTR_ANT,8
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INDTR,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INFRTR_ANT,8
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INFRTR,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRADOL,5
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,ADUATR_ANT,15
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,ADUATR,10
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN_ANT,130
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN,258
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ_ANT,30
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ,11
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIPEN_ANT,160
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIPEN,269
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL_ANT,5
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL,12
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ_ANT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIADOL_ANT,5
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIADOL,12
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIADUA_ANT,6
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIADUA,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICIV_ANT,88
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICIV,49
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIFAM_ANT,104
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIFAM,146
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AILAB_ANT,12
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AILAB,11
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICONT_ANT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICONT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICONC_ANT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICONC,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESINI,216
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SUMINICPRE,38
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SUMINISPRE,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SUMINI_ANT,32
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SUMINI,38
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIPEN2,216
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICHEQPEN,-53
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,CUMINI,4
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INDINI,7
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INFRINICIND,4
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INFRINISIND,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INFRINI_ANT,5
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INFRINI,4
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AARCHPEN,234
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AARCHADOL,11
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AACNA,14
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AARCHADUA,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AREMTPEN,11
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AREMTADOL,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AREMTADUA,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN_ANT,55
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN,39
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL_ANT,7
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL,6
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADU,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV_ANT,8
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV,6
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM_ANT,36
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM,48
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB_ANT,7
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB,7
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONC,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXREC,90
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXCUM,79
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PROVPRES,847
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PROVSUM,829
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PROVADOL,89
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PROV,3041
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,OFILIB,2236
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,DILALGUA,211
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,COMDNA,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS_ANT,8
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS,14
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS_ANT,8
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,ADOLCSENT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,ADOLSSENT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN_ANT,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN,4
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PENLIB,115
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INIMP,2
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PROFUG,3
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,DENPOLVD,63
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIOTRJDOVD,11
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIBARVD,2
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIVD_ANT,103
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AIVD,76
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AREPEVD,1
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL_21,60
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDEVAL,54
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_VD,22
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AARCHVD,74
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICNA_ANT,28
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AICNA,50
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,ARLDOCNA,2
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_CNA,41
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AI18895,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEF18895,0
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INIORDA,1
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INIJDO,343
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,INISD,98
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AITOT_ANT,444
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AITOT,442
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDR,488
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEF_ANT,51
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENDEF,61
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,SENINT,329
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,PROVOTR,2712
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,OFILIB_SGJ,1020
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXREC_SGJ,66
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AARCH,289
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,CEDULON,487
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_31/12/2016,726
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,ADUCON,548
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDR_ANT,454
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDR,488
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDS,60
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDNOT,430
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDTTOT,7
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDTPAR,1
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDPRO,50
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL,85
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDCOMP,84
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDUNI,59
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDVOL,4
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDLECT,59
+428,17,Dolores,-1,-1,1,-1,-1,1,1,-1,14,AUDOTR,197
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR_ANT,102
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESUMTR,128
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SUMTR_ANT,54
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SUMTR,58
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,CUMTR_ANT,8
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,CUMTR,11
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRPE,79
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,CUMSENT,19
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INDTR_ANT,5
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INDTR,1
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INFRTR_ANT,5
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INFRTR,2
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXPEJECTRADOL,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,ADUATR_ANT,4
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,ADUATR,3
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN_ANT,109
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIJDOPEN,275
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ_ANT,14
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIPENPAZ,3
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIPEN_ANT,123
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIPEN,278
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL_ANT,3
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIJDOADOL,6
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ_ANT,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIADOLPAZ,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIADOL_ANT,3
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIADOL,6
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIADUA_ANT,4
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIADUA,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICIV_ANT,83
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICIV,46
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIFAM_ANT,90
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIFAM,134
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AILAB_ANT,11
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AILAB,14
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICONT_ANT,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICONT,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICONC_ANT,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICONC,1
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESINI,247
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SUMINICPRE,24
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SUMINISPRE,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SUMINI_ANT,26
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SUMINI,24
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIPEN2,247
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICHEQPEN,-31
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,CUMINI,4
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INDINI,6
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INFRINICIND,5
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INFRINISIND,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INFRINI_ANT,3
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INFRINI,5
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AARCHPEN,211
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AARCHADOL,6
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AACNA,13
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AARCHADUA,2
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AREMTPEN,5
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AREMTADOL,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AREMTADUA,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN_ANT,54
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFPEN,30
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL_ANT,7
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADOL,2
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFADU,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV_ANT,5
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCIV,11
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM_ANT,51
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFFAM,44
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB_ANT,3
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFLAB,10
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONT,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEFCONC,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXREC,113
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXCUM,103
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PROVPRES,1093
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PROVSUM,677
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PROVADOL,53
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PROV,2354
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,OFILIB,2009
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,DILALGUA,136
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,COMDNA,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS_ANT,14
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESOSS,15
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS_ANT,1
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESOCS,1
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,ADOLCSENT,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,ADOLSSENT,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN_ANT,2
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PRESOPEN,2
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PENLIB,84
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INIMP,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PROFUG,2
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,DENPOLVD,53
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIOTRJDOVD,6
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIBARVD,3
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIVD_ANT,70
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AIVD,62
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AREPEVD,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL_21,42
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDEVAL,34
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_VD,22
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AARCHVD,44
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICNA_ANT,27
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AICNA,41
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,ARLDOCNA,1
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_CNA,60
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AI18895,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEF18895,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INIORDA,0
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INIJDO,332
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,INISD,103
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AITOT_ANT,376
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AITOT,435
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDR,386
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEF_ANT,59
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENDEF,65
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,SENINT,126
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,PROVOTR,2228
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,OFILIB_SGJ,851
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXREC_SGJ,84
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AARCH,283
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,CEDULON,417
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,EXPTR_31/12/2016,447
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,ADUCON,404
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDR_ANT,346
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDR,386
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDS,18
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDNOT,330
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDTTOT,10
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDTPAR,1
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDPRO,45
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDPREL,69
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDCOMP,23
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDUNI,35
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDVOL,14
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDLECT,69
+443,17,Dolores,-1,-1,1,-1,-1,1,2,-1,14,AUDOTR,176
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR_ANT,124
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESUMTR,105
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SUMTR_ANT,264
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SUMTR,295
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,CUMTR_ANT,25
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,CUMTR,20
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRPE,236
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,CUMSENT,19
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INDTR_ANT,2
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INDTR,2
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INFRTR_ANT,4
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INFRTR,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXPEJECTRADOL,6
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,ADUATR_ANT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,ADUATR,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN_ANT,231
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIJDOPEN,241
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ_ANT,218
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIPENPAZ,89
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIPEN_ANT,449
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIPEN,330
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL_ANT,13
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIJDOADOL,9
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ_ANT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIADOLPAZ,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIADOL_ANT,13
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIADOL,9
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIADUA_ANT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIADUA,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICIV_ANT,176
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICIV,114
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIFAM_ANT,423
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIFAM,464
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AILAB_ANT,46
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AILAB,22
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICONT_ANT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICONT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICONC_ANT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICONC,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESINI,105
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SUMINICPRE,11
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SUMINISPRE,56
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SUMINI_ANT,83
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SUMINI,67
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIPEN2,161
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICHEQPEN,-169
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,CUMINI,4
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INDINI,7
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INFRINICIND,2
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INFRINISIND,7
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INFRINI_ANT,13
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INFRINI,9
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AARCHPEN,413
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AARCHADOL,10
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AACNA,128
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AARCHADUA,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AREMTPEN,3
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AREMTADOL,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AREMTADUA,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN_ANT,73
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFPEN,82
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL_ANT,16
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADOL,9
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFADU,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV_ANT,7
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCIV,16
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM_ANT,81
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFFAM,125
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB_ANT,16
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFLAB,10
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEFCONC,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXREC,161
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXCUM,153
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PROVPRES,1003
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PROVSUM,988
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PROVADOL,33
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PROV,5237
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,OFILIB,4400
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,DILALGUA,157
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,COMDNA,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS_ANT,27
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESOSS,23
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS_ANT,1
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESOCS,5
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,ADOLCSENT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,ADOLSSENT,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN_ANT,20
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PRESOPEN,11
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PENLIB,194
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INIMP,12
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PROFUG,19
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,DENPOLVD,84
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIOTRJDOVD,42
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIBARVD,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIVD_ANT,143
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AIVD,126
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AREPEVD,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL_21,94
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDEVAL,87
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_VD,97
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AARCHVD,127
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICNA_ANT,232
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AICNA,88
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,ARLDOCNA,8
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_CNA,115
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AI18895,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEF18895,0
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INIORDA,2
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INIJDO,667
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,INISD,235
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AITOT_ANT,939
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AITOT,904
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDR,794
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEF_ANT,104
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENDEF,151
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,SENINT,83
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,PROVOTR,5154
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,OFILIB_SGJ,2425
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXREC_SGJ,121
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AARCH,971
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,CEDULON,810
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,EXPTR_31/12/2016,871
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,ADUCON,1055
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDR_ANT,492
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDR,794
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDS,261
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDNOT,715
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDTTOT,38
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDTPAR,8
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDPRO,33
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDPREL,205
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDCOMP,235
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDUNI,43
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDVOL,9
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDLECT,63
+463,18,Paso de Los Toros,-1,-1,1,-1,-1,1,1,-1,14,AUDOTR,239
