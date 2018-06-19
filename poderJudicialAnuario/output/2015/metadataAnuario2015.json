@@ -1,0 +1,373 @@
+{
+	"titulo": "Base Anual Poder Judicial,Contiene los datos sobre actividad jurisdiccional de todas las sedes judiciales del Poder Judicial",
+	"descripcion": "Contiene los datos sobre actividad jurisdiccional de todas las sedes judiciales del Poder Judicial",
+	"atributos": [
+		{
+			"nombreAtributo": "comunidad con",
+			"descripción": "Sede con la que forma comunidad geográfica",
+			"tipoDato": "texto",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Comunidad",
+					"Nombre": "Nombre de la sede"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Comp",
+			"descripción": "Materia sobre la que tiene competencia",
+			"tipoDato": "número",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Materia",
+					"1": "Familia",
+					"2": "Civil",
+					"3": "Trabajo",
+					"4": "Contencioso Administrativo",
+					"5": "Penal",
+					"6": "Adolescentes",
+					"7": "Aduana",
+					"8": "Concurso",
+					"9": "Paz",
+					"10": "Crimen Organizado",
+					"11": "Familia Especializada (CNA y Violencia Doméstica)",
+					"12": "Faltas",
+					"13": "Ejecución",
+					"14": "Multimateria",
+					"15": "CGP, Faltas y Comp Urgencia",
+					"16": "Penal Adolescente y Aduana",
+					"17": "Penal y Adolescente",
+					"18": "CGP (Código General del Proceso)",
+					"19": "Civil (Sin materia Familia)",
+					"20": "Laboral",
+					"21": "Familia y Familia Especializada (CNA y Violencia Doméstica)",
+					"22": "Todas (Suprema Corte de Justicia)"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Depto",
+			"descripción": "Departamento",
+			"tipoDato": "texto",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1":{"iso":"Sin Depto."
+					,"desc":"Sin Depto."},
+					"1":{"iso":"UY-MO"
+						,"desc":"Montevideo"},
+					"2":{"iso":"UY-AR", 
+					"desc":"Artigas"},
+					"3":{"iso":"UY-CA", 
+					"desc":"Canelones"},
+					"4":{"iso":"UY-CL",
+					"desc":"Cerro Largo"},
+					"5":{"iso":"UY-CO",
+					"desc":"Colonia"},
+					"6":{"iso":"UY-DU",
+					"desc":"Durazno"},
+					"7":{"iso":"UY-FS",
+					"desc":"Flores"},
+					"8":{"iso":"UY-FD",
+					"desc":"Florida"},
+					"9":{"iso":"UY-LA",
+					"desc":"Lavalleja"},
+					"10":{"iso":"UY-MA",
+					"desc":"Maldonado"},
+					"11":{"iso":"UY-PA",
+					"desc":"Paysandú"},
+					"12":{"iso":"UY-RN"
+					,"desc":"Rio Negro"},
+					"13":{"iso":"UY-RV"
+					,"desc":"Rivera"},
+					"14":{"iso":"UY-RO"
+					,"desc":"Rocha"},
+					"15":{"iso":"UY-SA"
+					,"desc":"Salto"},
+					"16":{"iso":"UY-SJ"
+					,"desc":"San José"},
+					"17":{"iso":"UY-SO"
+					,"desc":"Soriano"},
+					"18":{"iso":"UY-TA"
+					,"desc":"Tacuarembó"},
+					"19":{"iso":"UY-TT"
+					,"desc":"Treinta y Tres"}
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Oficina",
+			"descripción": "Oficina del Juzgado",
+			"tipoDato": "texto",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Oficina",
+					"nº": "Oficina en la que funciona el Juzgado"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Turno",
+			"descripción": "Turno del Juzgado",
+			"tipoDato": "texto",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Turno",
+					"nº": "Turno del Juzgado"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Sede",
+			"descripción": "Sede titular de la comunidad geográfica",
+			"tipoDato": "número",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Dato de Sede",
+					"0": "No",
+					"1": "Si"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Categ",
+			"descripción": "Categoría o Competencia Jurisdiccional de la Sede",
+			"tipoDato": "número",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Categoría",
+					"1": "Juzgado Letrado",
+					"2": "Juzgado de Paz departamental",
+					"3": "Juzgado de Paz ciudad",
+					"4": "Juzgado de Paz primera categoria",
+					"5": "Juzgado de Paz segunda categoria",
+					"6": "Juzgado de Paz rural",
+					"7": "Tribunales",
+					"8": "Suprema Corte de Justicia"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Ciudad",
+			"descripción": "Ciudad",
+			"tipoDato": "texto",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Ciudad"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "CG",
+			"descripción": "Comunidad geográfica",
+			"tipoDato": "número",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Dato",
+					"0": "NO",
+					"1": "SI (conforma comunidad con otra sede)"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Cod_sede",
+			"descripción": "Código Sede",
+			"tipoDato": "número",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"nº": "Código de la sede"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Secc",
+			"descripción": "Seccion judicial",
+			"tipoDato": "texto",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Seccion judicial",
+					"nº": "Sección judicial competencia de la sede"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Juez",
+			"descripción": "La sede tiene Juez",
+			"tipoDato": "número",
+			"longitud": -1,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Código",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"-1": "Sin Dato",
+					"0": "No",
+					"1": "Si"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Act_Jur",
+			"descripción": "Actividad Jurisdiccional",
+			"tipoDato": "texto",
+			"longitud": 5,
+			"precisión": -1,
+			"dominioValores": {
+				"nombreCampo": "Act_Jur",
+				"tipoDato": "texto",
+				"valoresPermisible": {
+					"AARCH": "Asuntos archivados",
+					"ACYAMP": "Recursos de Aclaración y Ampliación",
+					"ADUATR": "Expedientes en trámite en materia de Aduana",
+					"AI18895": "Asuntos Iniciados por la ley nº 18895 (restitución internacional de menores)",
+					"AIADOL": "Asuntos Iniciados por la ley nº 18895 (restitución internacional de menores)",
+					"AIADUA": "Asuntos iniciados en materia Aduanera",
+					"AIBARVD": "Asuntos inciados en la sede (en baranda)",
+					"AICIV": "Asuntos Iniciados en materia Civil",
+					"AICNA": "Asuntos iniciados de Código de la Niñez y el Adolescentes (no infraccionales) (ley 17823)",
+					"AICONC": "Asuntos Iniciados en materia Concursal",
+					"AICONT": "Asuntos Iniciados en materia Contencioso Administrativo",
+					"AIFALTAS": "Asuntos Iniciados en materia Contencioso Administrativo",
+					"AIFAM": "Asuntos Iniciados en materia Familia",
+					"AIJDOVD": "Asuntos iniciados en otros Juzgado (materia Violencia Doméstica)",
+					"AIL18895": "Asuntos iniciados en otros Juzgado (materia Violencia Doméstica)",
+					"AILAB": "Asuntos Iniciados en materia Laboral",
+					"AIOTRJDO": "Asuntos Iniciados en materia Laboral",
+					"AIOTRJDOVD": "Asuntos Iniciados en materia Laboral",
+					"AIPAZCGP": "Asuntos de Paz iniciados por el CGP ",
+					"AIPAZVD": "Asuntos iniciados en paz de violencia doméstica",
+					"AIPE": "Asuntos iniciados en paz de violencia doméstica",
+					"AIVD": "Total de asuntos iniciados (materia Violencia Doméstica)",
+					"AUDCON": "Audiencias convocadas",
+					"AUDEVA": "Audiencias convocadas",
+					"AUDEVAL": "Audiencias evaluatorias realizadas",
+					"AUDPREL": "Audiencias preliminares realizadas",
+					"AUDR": "Audiencias realizadas en materia CGP (solo VD y CNA en estas sedes)",
+					"AUDRFAL": "Audiencias realizadas en materia de Faltas",
+					"AUDS": "Audiencias suspendidas",
+					"AUDUNI": "Audiencias suspendidas",
+					"CASACION": "Audiencias suspendidas",
+					"CEDULON": "Cedulones emitidos",
+					"CUMSENT": "Materia sobre la que tiene competencia",
+					"CUMTR": "Cúmulos en trámite",
+					"DENPOL": "Cúmulos en trámite",
+					"DENPOLVD": "Denuncia policial (materia Violencia Doméstica)",
+					"DILALGUA": "Denuncia policial (materia Violencia Doméstica)",
+					"EJESEN": "Denuncia policial (materia Violencia Doméstica)",
+					"EJESENT": "Denuncia policial (materia Violencia Doméstica)",
+					"EJESENTR": "Expedientes de adolescentes en ejecución de sentencia (en trámite)",
+					"ESCJUD": "Expedientes de adolescentes en ejecución de sentencia (en trámite)",
+					"EXPTR": "Expedientes de adolescentes en ejecución de sentencia (en trámite)",
+					"EXREC": "Exhortos recibidos",
+					"INDTR": "Indagatorias en trámite",
+					"INFRINI": "Indagatorias en trámite",
+					"INFRINIADOL": "Indagatorias en trámite",
+					"INFRTR": "Procesos infraccionales en trámite",
+					"INIADOL": "Procesos infraccionales en trámite",
+					"INIEJEC": "Procesos infraccionales en trámite",
+					"INIFAL": "Total de Asuntos iniciados de faltas",
+					"INIMP": "Total de Asuntos iniciados de faltas",
+					"INIPEN": "Total de asuntos iniciados en materia penal",
+					"INIPEN2015": "Total de asuntos iniciados en materia penal",
+					"INITOT": "Total de asuntos iniciados en materia penal",
+					"LEY 18.895": "Total de asuntos iniciados en materia penal",
+					"NULIDAD": "Total de asuntos iniciados en materia penal",
+					"OFICIOS": "Total de asuntos iniciados en materia penal",
+					"OFILIB": "Oficios librados",
+					"Otros_tipojuicio": "Oficios librados",
+					"PARTES": "Oficios librados",
+					"PENLIB": "Oficios librados",
+					"PRESCS": "Oficios librados",
+					"PRESINI": "Oficios librados",
+					"PRESOCS": "Presos con causa radicada en la Sede en libertad (cantidad de penados en libertad)",
+					"PRESOPEN": "Presos con causa radicada en la Sede con sentencia ejecutoriada (cantidad de penados presos)",
+					"PRESOSCS2": "Presos con causa radicada en la Sede con sentencia ejecutoriada (cantidad de penados presos)",
+					"PRESOSS": "Presos sin sentencia",
+					"PRESOSS2": "Presos sin sentencia",
+					"PRESUMTR": "Presumarios en trámite",
+					"PROFUG": "Presumarios en trámite",
+					"RECAPSD": "Presumarios en trámite",
+					"RECAPSI": "Presumarios en trámite",
+					"RECQUE": "Presumarios en trámite",
+					"RESTEL": "Prófugos",
+					"SD18895": "Resoluciones telefónicas adoptadas durante el turno",
+					"SDCIV": "Sentencias definitivas por la ley nº 18895 (restitución internacional de menores)",
+					"SDCONC": "Sentencia definitivas en materi Civil",
+					"SDCONT": "Sentencia definitivas en materi Concurso",
+					"SDFAL": "Sentencia definitivas en materi Contencioso",
+					"SDFAM": "Sentencias definitivas de faltas paz",
+					"SDL18895": "Sentencias definitivas de faltas paz",
+					"SDLAB": "Sentencia definitivas en materi Familia",
+					"SDPAZ": "Sentencias definitivas paz ",
+					"SENDEF": "Sentencias definitivas SGJ",
+					"SENDEFAO": "Sentencias definitivas SGJ",
+					"SENDEFAU": "Sentencias definitivas SGJ",
+					"SENDEFPE": "Sentencias definitivas en materia Adolescentes",
+					"SENTDEF": "Sentencias definitivas en materia Adolescentes",
+					"SUMINI": "Sumarios iniciados",
+					"SUMTR": "Sumarios en trámite",
+					"TOTARCH": "Sumarios en trámite",
+					"TR31/12/15": "Sumarios en trámite",
+					"TR31/12/2015": "Expedientes en trámite",
+					"TRADUA": "Expedientes en trámite",
+					"TRCGPPAZ": "Expedientes en trámite",
+					"TRFAL": "Expedientes en trámite por el CGP paz",
+					"Trfaltas": "Expedientes en trámite por el CGP paz",
+					"TRTAP": "Expedientes en trámite por el CGP paz",
+					"TRVD": "Expedientes en trámite en materia de FALTAS",
+					"VISITAS": "Expedientes en trámite en materia de FALTAS"
+				}
+			}
+		},
+		{
+			"nombreAtributo": "Cantidad",
+			"descripción": "Cantidad de expedientes",
+			"tipoDato": "número",
+			"longitud": 3,
+			"precisión": -1
+		}
+	]
+}

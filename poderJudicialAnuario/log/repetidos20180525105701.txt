@@ -1,0 +1,14 @@
+Nombre pestaña|unique
+Aduana Mvd|
+Adolescentes Mvd|
+Famesp Mvd|
+Penal y Crimen Mvd|
+Ejecución Mvd|
+Faltas Mvd|
+CGP Capital|
+CGP Int|
+PAA Int|
+Multimateria Int|
+Paz Int|
+Tribunal Penal|
+Tribunales Civ-Trab-Flia|

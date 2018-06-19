@@ -1,0 +1,3 @@
+Variable;Cantidad
+AIADOL2;35
+AIPEN2;48
